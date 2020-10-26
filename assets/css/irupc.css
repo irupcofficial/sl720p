@@ -22,3 +22,21 @@
         font-size: 20px;
         font-weight: bold;
     }
+
+        .irupcli{
+            font-size: small;
+            text-align: left;
+        }
+        .ipli{
+            cursor: pointer;
+            padding-left: 22px;
+
+        }
+        .ipli:hover{
+            font-weight: bolder;
+            color: rgb(75, 147, 255);
+            font-size: large;
+        }
+        .ips{
+            padding-left: 20px;
+        }
