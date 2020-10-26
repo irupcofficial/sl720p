@@ -36,20 +36,7 @@
     
     <!-- Irupc added codes-->
     <script src="https://kit.fontawesome.com/3b84b8effa.js" crossorigin="anonymous"></script>
-    <style>
-        .irupcicon{
-            color: ivory;
-            position: absolute;
-            left: 0;
-            top: 0;
-            padding: 0 3px;
-            margin-top: -1px
-        }
-        header.responsive,
-    .search_responsive {
-        display: block
-    }
-    </style>
+    <link rel='stylesheet' href='/assets/css/irupc.css' type='text/css' media='all' />
 
     </head>
     <body data-rsssl=1 class="home blog elementor-default">
