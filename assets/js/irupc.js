@@ -16,6 +16,3 @@
     function iplang2(){
         document.getElementById('iplang2').style.display='block'; document.getElementById('iplang1').style.display='none';
     }
-       function irupc2020(){
-            window.open('https://google.com')
-        }
