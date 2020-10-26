@@ -1,0 +1,24 @@
+        .irupcicon{
+            color: ivory;
+            position: absolute;
+            left: 0;
+            top: 0;
+            padding: 0 3px;
+            margin-top: -1px
+        }
+        .ipsearch{
+            float: right;
+            padding-top: 3%;
+        }
+        .ipnav{
+            float: left;
+            padding-top: 3%;
+        }
+        
+    #ipyear2{display:none;}
+    #ipgenre2{display:none;}
+    #iplang2{display:none;}
+    .irupctext{
+        font-size: 20px;
+        font-weight: bold;
+    }
