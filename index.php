@@ -37,7 +37,11 @@
     <!-- Irupc added codes-->
     <script src="https://kit.fontawesome.com/3b84b8effa.js" crossorigin="anonymous"></script>
     <link rel='stylesheet' href='/assets/css/irupc.css' type='text/css' media='all' />
-
+    <style>
+        .ips{
+            padding-left: 20px;
+        }
+    </style>
     </head>
     <body data-rsssl=1 class="home blog elementor-default">
         <div id="dt_contenedor">
