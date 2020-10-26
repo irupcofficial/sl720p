@@ -38,6 +38,20 @@
     <script src="https://kit.fontawesome.com/3b84b8effa.js" crossorigin="anonymous"></script>
     <link rel='stylesheet' href='/assets/css/irupc.css' type='text/css' media='all' />
     <style>
+        .irupcli{
+            font-size: small;
+            text-align: left;
+        }
+        .ipli{
+            cursor: pointer;
+            padding-left: 22px;
+
+        }
+        .ipli:hover{
+            font-weight: bolder;
+            color: rgb(75, 147, 255);
+            font-size: large;
+        }
         .ips{
             padding-left: 20px;
         }
@@ -56,14 +70,14 @@
                                 <li><a><i class="fas fa-caret-down"></i>Movies</a>
                                     <ul class="sub-menu"><div class="irupcli">
                                         ---------------------------------------------------<br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcenglish()">English</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupchindi()">Hindi</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupctamil()">Tamil</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupctelugu()">Telugu</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcmalayalam()">Malayalam</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupckannada()">Kannada</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcsinhala()">Tamil</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcother()">Other</m><br><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcenglish()">English</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupchindi()">Hindi</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupctamil()">Tamil</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupctelugu()">Telugu</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcmalayalam()">Malayalam</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupckannada()">Kannada</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcsinhala()">Tamil</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcother()">Other</m><br></div><br><br>
                                         ---------------------------------------------------<br><br>
                                     </div></ul>
                                 </li>
@@ -71,20 +85,20 @@
                                 <li><a><i class="fas fa-caret-down"></i>Genres</a>
                                     <ul class="sub-menu">
                                         ---------------------------------------------------<br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcaction()">Action</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcadventure()">Adventure</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcromance()">Romance</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupccrime()">Crime</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupccomedy()">Comedy</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcdrama()">Drama</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupchorror()">Horror</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcaction()">Family</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcadventure()">Fantasy</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcromance()">Animation</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcdocumentary()">Documentary</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcthriller()">Thriller</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcsci()">Sci-Fi</m><br><br><br>
-                                        <div class="ipli"></div><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupchistory()">History</m><br><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcaction()">Action</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcadventure()">Adventure</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcromance()">Romance</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupccrime()">Crime</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupccomedy()">Comedy</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcdrama()">Drama</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupchorror()">Horror</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcaction()">Family</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcadventure()">Fantasy</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcromance()">Animation</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcdocumentary()">Documentary</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcthriller()">Thriller</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupcsci()">Sci-Fi</m><br></div><br><br>
+                                        <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><m onclick="irupchistory()">History</m><br></div><br><br>
                                         ---------------------------------------------------<br><br>
                                     </ul>
                                 </li>
