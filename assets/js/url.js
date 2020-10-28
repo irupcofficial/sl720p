@@ -26,5 +26,9 @@
             window.open("https://movieslk.herokuapp.com/Letters/"+iptype+"/1.php")
         }
 
+        function irupctvpgurl(pgno){
+            window.open("https://movieslk.herokuapp.com/TV_Shows/"+pgno+".php")
+        }
+
         totalmoviepgs=20;
         ipNoOfMovies=370;
