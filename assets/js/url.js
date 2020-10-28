@@ -22,5 +22,9 @@
             window.open("https://movieslk.herokuapp.com/Years/"+iptype+"/1.php")
         }
 
+        function irupcLetter(iptype){
+            window.open("https://movieslk.herokuapp.com/Letters/"+iptype+"/1.php")
+        }
+
         totalmoviepgs=20;
         ipNoOfMovies=370;
