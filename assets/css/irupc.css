@@ -41,64 +41,54 @@
             padding-left: 20px;
         }
 
+        .ipnavsocial{
+          border: none;
+          padding: 12px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          margin: 4px 2px;
+          transition-duration: 0.3s;
+          cursor: pointer;
+          border-radius: 50px;
+          font-weight: bold;
+          font-size: 16px;
+        }
+        .ipnavsocial:hover{
+          border: none;
+          padding: 12px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          margin: 4px 2px;
+          transition-duration: 0.3s;
+          cursor: pointer;
+          border-radius: 0px;
+          font-weight: bold;
+          font-size: 16px;
+        }
     .irupcTelegram{
     background-color: #0088cc;
-    border: none;
-    padding: 12px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin: 4px 2px;
-    transition-duration: 0.3s;
-    cursor: pointer;
-    border-radius: 50px;
-    font-weight: bold;
-    font-size: 16px;
     }
 
     .irupcTelegram:hover{
     background-color: #0088cc;
     color: #000;
-    border: none;
-    padding: 12px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin: 4px 2px;
-    transition-duration: 0.3s;
-    cursor: pointer;
-    border-radius: 0px;
-    font-weight: bold;
-    font-size: 16px;    
     }
 
     .irupcWhatsApp{
     background-color: #128C7E;
-    border: none;
-    padding: 12px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin: 4px 2px;
-    transition-duration: 0.3s;
-    cursor: pointer;
-    border-radius: 50px;
-    font-weight: bold;
-    font-size: 16px;
     }
 
     .irupcWhatsApp:hover{
-    background-color: #25D366;
+    background-color: #25D366; 
     color: #000;
-    border: none;
-    padding: 12px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin: 4px 2px;
-    transition-duration: 0.3s;
-    cursor: pointer;
-    border-radius: 0px;
-    font-weight: bold;
-    font-size: 16px;    
+    }
+    .irupcFaceBook{
+    background-color: #4267B2;
+    }
+
+    .irupcFaceBook:hover{
+    background-color: #898F9C;
+    color: #000;
     }
