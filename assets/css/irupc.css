@@ -40,3 +40,65 @@
         .ips{
             padding-left: 20px;
         }
+
+    .irupcTelegram{
+    background-color: #0088cc;
+    border: none;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+    border-radius: 50px;
+    font-weight: bold;
+    font-size: 16px;
+    }
+
+    .irupcTelegram:hover{
+    background-color: #0088cc;
+    color: #000;
+    border: none;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+    border-radius: 0px;
+    font-weight: bold;
+    font-size: 16px;    
+    }
+
+    .irupcWhatsApp{
+    background-color: #128C7E;
+    border: none;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+    border-radius: 50px;
+    font-weight: bold;
+    font-size: 16px;
+    }
+
+    .irupcWhatsApp:hover{
+    background-color: #25D366;
+    color: #000;
+    border: none;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+    border-radius: 0px;
+    font-weight: bold;
+    font-size: 16px;    
+    }
