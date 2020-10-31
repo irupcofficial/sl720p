@@ -41,6 +41,12 @@
             padding-left: 20px;
         }
 
+        d{
+            cursor: pointer;
+            color: #89a800;
+            font-weight: bolder;
+        }
+
         .irupcTelegram{
         background-color: #0088cc;
         border: none;
