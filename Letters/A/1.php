@@ -686,10 +686,10 @@
                         <div class="pagination">
                             <span>Page <script>document.write(pgnumber);</script> of <script>document.write(totalmoviepgs);</script></span>
                             <span class="current"><script>document.write(pgnumber);</script></span>
-                            <a onclick="irupcMoviepgurl(1+1)" class="inactive"><script>document.write(pgnumber+1);</script></a>
+                            <a onclick="ipLetterpgs('A', 2)" class="inactive"><script>document.write(pgnumber+1);</script></a>
                         </div>
                         <div class='resppages'>
-                            <a onclick="irupcMoviepgurl(1+1)"><i class="fas fa-forward"></i> Next Page</a>
+                            <a onclick="ipLetterpgs('A', 2)"><i class="fas fa-forward"></i> Next Page</a>
                         </div>
                     </div>
                     <div class="sidebar right scrolling">
