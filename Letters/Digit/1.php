@@ -235,7 +235,7 @@
                         <div id="archive-content" class="animation-2 items">
                             <article class="item se seasons">
                                 <div class="poster">
-                                    <img src="https://1.bp.blogspot.com/-kp1_llktOcg/X4F2cBk6_BI/AAAAAAAABRg/G-rcygFyGPgVqaJ4QVnaxHvHUbDLAQF4ACLcBGAsYHQ/s320/1.jpg">
+                                    <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EYb9c707fTGrsM3bA0zKk3jNBq.jpg">
                                     <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2018</div>
                                     <div class="featu">Hindi</div>
                                     <div class="season_m animation-1">
@@ -246,7 +246,7 @@
                                     </div>
                                 </div>
                                 <div class="data">
-                                    <h3><a href="https://www.irupc.net/2020/10/20-2018.html">2</a></h3>
+                                    <h3><a href="https://www.irupc.net/2020/10/20-2018.html">2.0</a></h3>
                                     <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Sci')">Sci-Fi</d></span>
                                 </div>
                             </article>
