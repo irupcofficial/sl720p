@@ -11,7 +11,7 @@
         }
 
         function irupcgenre(iptype){
-            window.open("https://movieslk.herokuapp.com/Langages/"+iptype+"/1.php")
+            window.open("https://movieslk.herokuapp.com/Genres/"+iptype+"/1.php")
         }
         
         function irupclang(iptype){
@@ -28,6 +28,10 @@
 
         function irupctvpgurl(pgno){
             window.open("https://movieslk.herokuapp.com/TV_Shows/"+pgno+".php")
+        }
+
+        function ipLetterpgs(Letter, pgno){
+            window.open("https://movieslk.herokuapp.com/Letters/"+Letter+"/"+pgno+".php")
         }
 
         totalmoviepgs=20;
