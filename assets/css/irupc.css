@@ -47,6 +47,12 @@
             font-weight: bolder;
         }
 
+        ipd{
+            color: #de0000;
+            cursor: pointer;
+            font-weight: bolder;
+        }
+
         .irupcTelegram{
         background-color: #0088cc;
         border: none;
