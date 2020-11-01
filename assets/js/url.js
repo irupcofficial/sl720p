@@ -13,6 +13,10 @@
         function irupcgenre(iptype){
             window.open("https://movieslk.herokuapp.com/Genres/"+iptype+"/1.php")
         }
+
+        function ipgenrepgs(genre, pgno){
+            window.open("https://movieslk.herokuapp.com/Genres/"+genre+"/"+pgno+".php")
+        }
         
         function irupclang(iptype){
             window.open("https://movieslk.herokuapp.com/Langages/"+iptype+"/1.php")
@@ -36,3 +40,4 @@
 
         totalmoviepgs=20;
         ipNoOfMovies=370;
+        totalActionpgs=11;
