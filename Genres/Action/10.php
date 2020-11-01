@@ -687,11 +687,11 @@
                         </div>
                         <div class="pagination">
                             <span>Page <script>document.write(pgnumber);</script> of <script>document.write(totalActionpgs);</script></span>
+                            <a onclick="ipgenrepgs('Action', 10-3)" class="inactive"><script>document.write(pgnumber-3);</script></a>
                             <a onclick="ipgenrepgs('Action', 10-2)" class="inactive"><script>document.write(pgnumber-2);</script></a>
                             <a onclick="ipgenrepgs('Action', 10-1)" class="inactive"><script>document.write(pgnumber-1);</script></a>
                             <span class="current"><script>document.write(pgnumber);</script></span>
                             <a onclick="ipgenrepgs('Action', 10+1)" class="inactive"><script>document.write(pgnumber+1);</script></a>
-                            <a onclick="ipgenrepgs('Action', 10+2)" class="inactive"><script>document.write(pgnumber+2);</script></a>
                         </div>
                         <div class='resppages'>
                             <a onclick="ipgenrepgs('Action', 10-1)"><i class="fas fa-backward"></i> Back Page</a>
