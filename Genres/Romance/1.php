@@ -690,7 +690,6 @@
                             <span class="current"><script>document.write(pgnumber);</script></span>
                             <a onclick="ipgenrepgs('Romance', pgnumber-1)" class="inactive"><script>document.write(pgnumber-1);</script></a>
                             <a onclick="ipgenrepgs('Romance', pgnumber+2)" class="inactive"><script>document.write(pgnumber+2);</script></a>
-                            <a onclick="ipgenrepgs('Romance', pgnumber+3)" class="inactive"><script>document.write(pgnumber+3);</script></a>
                         </div>
                         <div class='resppages'>
                             <a onclick="ipgenrepgs('Romance', pgnumber+1)"><i class="fas fa-forward"></i> Next Page</a>
