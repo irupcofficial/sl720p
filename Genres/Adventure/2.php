@@ -689,11 +689,12 @@
                             <span>Page <script>document.write(pgnumber);</script> of <script>document.write(totalAdventurepgs);</script></span>
                             <a onclick="ipgenrepgs('Adventure', pgnumber-1)" class="inactive"><script>document.write(pgnumber-1);</script></a>
                             <span class="current"><script>document.write(pgnumber);</script></span>
+                            <a onclick="ipgenrepgs('Adventure', pgnumber+1)" class="inactive"><script>document.write(pgnumber+1);</script></a>
                             <a onclick="ipgenrepgs('Adventure', pgnumber+2)" class="inactive"><script>document.write(pgnumber+2);</script></a>
-                            <a onclick="ipgenrepgs('Adventure', pgnumber+3)" class="inactive"><script>document.write(pgnumber+3);</script></a>
-                            <a onclick="ipgenrepgs('Adventure', pgnumber+4)" class="inactive"><script>document.write(pgnumber+4);</script></a>
+                            <a onclick="ipgenrepgs('Adventure', pgnumber+3)" class="inactive"><script>document.write(pgnumber+4);</script></a>
                         </div>
                         <div class='resppages'>
+                            <a onclick="ipgenrepgs('Adventure', pgnumber-1)"><i class="fas fa-forward"></i> Back Page</a>
                             <a onclick="ipgenrepgs('Adventure', pgnumber+1)"><i class="fas fa-forward"></i> Next Page</a>
                         </div>
                     </div>
