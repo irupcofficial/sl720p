@@ -686,7 +686,7 @@
                             <!-- 1 --> 
                         </div>
                         <div class="pagination">
-                            <span>Page <script>document.write(pgnumber);</script> of <script>document.write(totalActionpgs);</script></span>
+                            <span>Page <script>document.write(pgnumber);</script> of <script>document.write(totalDramapgs);</script></span>
                             <span class="current"><script>document.write(pgnumber);</script></span>
                             <a onclick="ipgenrepgs('Drama', 1)" class="inactive"><script>document.write(pgnumber+1);</script></a>
                             <a onclick="ipgenrepgs('Drama', 2)" class="inactive"><script>document.write(pgnumber+2);</script></a>
