@@ -230,7 +230,7 @@
             <div class="module">
                 <div class="content right">
                     <header class="archive_post">
-                        <h1>Movies</h1><span><script>document.write(ipNoOfMovies);</script></span>
+                        <h1>Avenges Movie Collection</h1><span>24</span>
                     </header>
                         <div id="archive-content" class="animation-2 items">
 
