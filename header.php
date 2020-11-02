@@ -156,3 +156,4 @@
         </div>
         <div class="items_glossary"></div>
     </div>
+    </div>
