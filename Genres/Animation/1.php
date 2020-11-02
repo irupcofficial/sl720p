@@ -230,7 +230,7 @@
             <div class="module">
                 <div class="content right">
                     <header class="archive_post">
-                        <h1>Animation</h1><span><script>document.write(totalAdventurepgs);</script> x 25</span>
+                        <h1>Animation</h1><span><script>document.write(totalAnimationpgs*25);</script></span>
                     </header>
                         <div id="archive-content" class="animation-2 items">
 
