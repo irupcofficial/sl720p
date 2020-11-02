@@ -548,10 +548,9 @@
                         <div class='resppages'>
                         </div>
                     </div>
+                <div id="footer"></div>
 <div id="nav"></div>
             </div>        
-    
-<div id="footer"></div>
         </div>
 </div>
         
