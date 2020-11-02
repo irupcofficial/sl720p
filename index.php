@@ -83,877 +83,474 @@
         </div>
     <div id="contenedor">
             <div id="letter"></div>
-            <!--===========Row Number 1===========-->
             <div class="module">
                 <div class="content right">
-                    <div id="slider-movies-tvshows" class="animation-1 slider">
-                    <!--============Aarticle 1.1============-->    
-                        <article class="item" id="post-1905">
-                            <div class="image">
-                                <a href="01-@@@url-01">
-                                    <img src="01-@@@img-01"/>
-                                </a>
-                                <a href="01-@@@url-01">
-                                    <div class="data"><h3 class="title">01-@@@name-01</h3><span>01-@@@year-01</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.2============-->
-                        <article class="item" id="post-1913">
-                            <div class="image">
-                                <a href="01-@@@url-02">
-                                    <img src="01-@@@img-02"/>
-                                </a>
-                                <a href="01-@@@url-02">
-                                    <div class="data"><h3 class="title">01-@@@name-02</h3><span>01-@@@year-02</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.3============-->
-                        <article class="item" id="post-1901">
-                            <div class="image">
-                                <a href="01-@@@url-03">
-                                    <img src="01-@@@img-03"/>
-                                </a>
-                                <a href="01-@@@url-03">
-                                    <div class="data"><h3 class="title">01-@@@name-03</h3><span>01-@@@year-03</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.4============-->    
-                        <article class="item" id="post-1421">
-                            <div class="image">
-                                <a href="01-@@@url-04">
-                                    <img src="01-@@@img-04"/>
-                                </a>
-                                <a href="01-@@@url-04">
-                                    <div class="data"><h3 class="title">01-@@@name-04/h3><span>01-@@@year-04</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.5============-->    
-                        <article class="item" id="post-1397">
-                            <div class="image">
-                                <a href="01-@@@url-05">
-                                    <img src="01-@@@img-05"/>
-                                </a>
-                                <a href="01-@@@url-05">
-                                    <div class="data"><h3 class="title">01-@@@name-05</h3><span>01-@@@year-05</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.6============-->    
-                        <article class="item" id="post-1919">
-                            <div class="image">
-                                <a href="01-@@@url-06">
-                                    <img src="01-@@@img-06"/>
-                                </a>
-                                <a href="01-@@@url-06">
-                                    <div class="data"><h3 class="title">01-@@@name-06</h3><span>01-@@@year-06</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.7============-->    
-                        <article class="item" id="post-1831">
-                            <div class="image">
-                                <a href="01-@@@url-07">
-                                    <img src="01-@@@img-07"/>
-                                </a>
-                                <a href="01-@@@url-07">
-                                    <div class="data"><h3 class="title">01-@@@name-07</h3><span>01-@@@year-07</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.8============-->    
-                        <article class="item" id="post-1915">
-                            <div class="image">
-                                <a href="01-@@@url-08">
-                                    <img src="01-@@@img-08"/>
-                                </a>
-                                <a href="01-@@@url-08">
-                                    <div class="data"><h3 class="title">01-@@@name-08</h3><span>01-@@@year-08</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.9============-->    
-                        <article class="item" id="post-1409">
-                            <div class="image">
-                                <a href="01-@@@url-09">
-                                    <img src="01-@@@img-09"/>
-                                </a>
-                                <a href="01-@@@url-09">
-                                    <div class="data"><h3 class="title">01-@@@name-09</h3><span>01-@@@year-09</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.10============-->    
-                        <article class="item" id="post-1395">
-                            <div class="image">
-                                <a href="01-@@@url-10">
-                                    <img src="01-@@@img-10"/>
-                                </a>
-                                <a href="01-@@@url">
-                                    <div class="data"><h3 class="title">01-@@@name-10</h3><span>01-@@@year-10</span></div>
-                                </a>
-                                <span class="item_type">###R01</span>
-                            </div>
-                        </article>
-                    </div>
-                <!--===========Row Number 1 End===========-->
-                    <header>
-                        <h2>Featured titles</h2>
-                        <div class="nav_items_module">
-                            <a class="btn prevf">
-                                <i class="fas fa-angle-double-left"></i>
-                            </a>
-                            <a class="btn nextf">
-                                <i class="fas fa-angle-double-right"></i>
-                            </a>
-                        </div>
+                    <header class="archive_post">
+                        <h1>Action</h1><span><script>document.write(totalActionpgs*25);</script></span>
                     </header>
-                <!--===========Row Number 2===========-->
-                    <div id="featload" class="load_modules">Loading..</div>
-                    <div id="featured-titles" class="items featured">
-                    <!--============Aarticle 2.1============-->
-                        <article id="post-featured-1901" class="item movies">
-                            <div class="poster">
-                                <img src="02-@@@img-01">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 02-@@@year-01</div>
-                                <div class="featu">###R02</div>
-                                <a href="02-@@@url-01">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data dfeatur">
-                                <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="02-@@@url-01">02-@@@name-01</a></h3>
-                                <span>02-@@@genre-01</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 2.2============-->    
-                        <article id="post-###R02-1905" class="item movies">
-                            <div class="poster">
-                                <img src="02-@@@img-02">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 02-@@@year-02</div>
-                                <div class="featu">###R02</div>
-                                <a href="02-@@@url-02">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data dfeatur">
-                                <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="02-@@@url-02">02-@@@name-02</a></h3>
-                                <span>02-@@@genre-02</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 2.3============-->    
-                        <article id="post-###R02-1831" class="item movies">
-                            <div class="poster">
-                                <img src="02-@@@img-03">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 02-@@@year-03</div>
-                                <div class="featu">###R02</div>
-                                <a href="02-@@@url-03">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data dfeatur">
-                                <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="02-@@@url-03">02-@@@name-03</a></h3>
-                                <span>02-@@@genre-03</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 2.4============-->    
-                        <article id="post-###R02-1411" class="item movies">
-                            <div class="poster">
-                                <img src="02-@@@img-04">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 02-@@@year-04</div>
-                                <div class="featu">###R02</div>
-                                <a href="02-@@@url-04">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data dfeatur">
-                                <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="02-@@@url-04">02-@@@name-04</a></h3>
-                                <span>02-@@@genre-04</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 2.5============-->    
-                        <article id="post-###R02-1401" class="item movies">
-                            <div class="poster">
-                                <img src="02-@@@img-05">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 02-@@@year-05</div>
-                                <div class="featu">###R02</div>
-                                <a href="02-@@@url-05">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data dfeatur">
-                                <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="02-@@@url-05">02-@@@name-05</a></h3>
-                                <span>02-@@@genre-05</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 2.6============-->
-                        <article id="post-###R02-1402" class="item movies">
-                            <div class="poster">
-                                <img src="02-@@@img-06">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 02-@@@year-06</div>
-                                <div class="featu">###R02</div>
-                                <a href="02-@@@url-06">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data dfeatur">
-                                <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="02-@@@url-06">02-@@@name-06</a></h3>
-                                <span>02-@@@genre-06</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 2.7============-->    
-                        <article id="post-###R02-1405" class="item movies">
-                            <div class="poster">
-                                <img src="02-@@@img-07">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 02-@@@year-07</div>
-                                <div class="featu">###R02</div>
-                                <a href="02-@@@url-07">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data dfeatur">
-                                <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="02-@@@url-07">02-@@@name-07</a></h3>
-                                <span>02-@@@genre-07</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 2.8============-->    
-                        <article id="post-###R02-1415" class="item movies">
-                            <div class="poster">
-                                <img src="02-@@@img-08">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 02-@@@year-08</div>
-                                <div class="featu">###R02</div>
-                                <a href="02-@@@url-08">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data dfeatur">
-                                <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="02-@@@url-08">02-@@@name-08</a></h3>
-                                <span>02-@@@genre-08</span>
-                            </div>
-                        </article>
-                    </div>
-                <!--===========Row Number 2 End===========-->
-                    <header>
-                        <h2>Movies</h2>
-                        <span>116 <a href="https://www.movieblazt.com/movies/" class="see-all">See all</a></span>
-                    </header>
-                    <div id="movload" class="load_modules">Loading..</div>
-                    <div id="dt-movies" class="items">
-                <!--===========Row Number 3===========--> 
-                    <!--============Aarticle 3.1============-->
-                        <article id="post-1905" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-01">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-01</div>
-                                <div class="mepo"> </div>
-                                <a href="03-@@@url-01">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="03-@@@url-01">03-@@@name-01</a></h3> 
-                                <span>03-@@@genre-01</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 3.2============-->    
-                        <article id="post-1913" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-02">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-02</div>
-                                <div class="mepo"> </div>
-                                <a href="03-@@@url-02">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="03-@@@url-02">03-@@@name-02</a></h3> 
-                                <span>03-@@@genre-02</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 3.3============-->    
-                        <article id="post-1901" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-03">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-03</div>
-                                <div class="mepo"> </div>
-                                <a href="03-@@@url-03">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="03-@@@url-03">03-@@@name-03</a></h3> 
-                                <span>03-@@@genre-03</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 3.4============-->    
-                        <article id="post-1421" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-04">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-04</div>
-                                <div class="mepo"> </div>
-                                <a href="03-@@@url-04">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="03-@@@url-04">03-@@@name-04</a></h3> 
-                                <span>03-@@@genre-04</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 3.5============-->    
-                        <article id="post-1397" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-05">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-05</div>
-                                <div class="mepo"> </div>
-                                <a href="03-@@@url-05">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="03-@@@url-05">03-@@@name-05/a></h3> 
-                                <span>03-@@@genre-05</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 3.6============-->   
-                        <article id="post-1919" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-06">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-06</div>
-                                <div class="mepo"> </div>
-                                <a href="03-@@@url-06">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="03-@@@url-06">03-@@@name-06</a></h3> 
-                                <span>03-@@@genre-06</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 3.7============-->    
-                        <article id="post-1831" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-07">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-07</div>
-                                <div class="mepo"> </div>
-                                <a href="03-@@@url-07">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="03-@@@url-07">03-@@@name-07</a></h3> 
-                                <span>03-@@@genre-07</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 3.8============-->
-                        <article id="post-1915" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-08">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-08</div>
-                                <div class="mepo"> </div>
-                                <a href="03-@@@url-08">
-                                     <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="03-@@@url-08">03-@@@name-08</a></h3> 
-                                <span>03-@@@genre-08</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 3.9============-->    
-                        <article id="post-1409" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-09">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-09</div>
-                                <div class="mepo"> </div>
-                                <a href="03-@@@url-09">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="03-@@@url-09">03-@@@name-09</a></h3> 
-                                <span>03-@@@genre-09</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 3.10============-->    
-                        <article id="post-1395" class="item movies">
-                            <div class="poster">
-                                <img src="03-@@@img-10">
-                                <div class="rating">
-                                    <span class="fas fa-hand-point-right"></span>&ThickSpace; 03-@@@year-10</div>
-                                    <div class="mepo"> </div>
-                                    <a href="03-@@@url-10">
-                                        <div class="see"></div>
-                                    </a>
+                        <div id="archive-content" class="animation-2 items">
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-kp1_llktOcg/X4F2cBk6_BI/AAAAAAAABRg/G-rcygFyGPgVqaJ4QVnaxHvHUbDLAQF4ACLcBGAsYHQ/s320/1.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2018</div>
+                                    <div class="featu">Hindi</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/20-2018.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
                                 <div class="data">
-                                    <h3><a href="03-@@@url-10">03-@@@name-10</a></h3> 
-                                    <span>03-@@@genre-10</span>
+                                    <h3><a href="https://www.irupc.net/2020/10/20-2018.html">2</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Sci')">Sci-Fi</d></span>
                                 </div>
-                            </div>
-                        </article>
-                <!--===========Row Number 3 End===========-->         
-                    <header>
-                        <h2>TV Shows</h2>
-                        <span>5 <a onclick="irupctv()">See all</a></span>
-                    </header>
-                    <div id="tvload" class="load_modules">Loading..</div>
-                    <div id="dt-tvshows" class="items">
-                <!--===========Row Number 4===========--> 
-                    <!--============Aarticle 4.1============-->
-                        <article id="post-1409" class="item tvshows">
-                            <div class="poster">
-                                <img src="04-@@@img-01">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 04-@@@year-01</div>
-                                <div class="mepo"> </div>
-                                <a href="04-@@@url-01">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="04-@@@url-01">04-@@@name-01</a></h3> 
-                                <span>04-@@@genre-01</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 4.2============-->    
-                        <article id="post-1409" class="item tvshows">
-                            <div class="poster">
-                                <img src="04-@@@img-02">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 04-@@@year-02</div>
-                                <div class="mepo"> </div>
-                                <a href="04-@@@url-02">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="04-@@@url-02">04-@@@name-02</a></h3> 
-                                <span>04-@@@genre-02</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 4.3============-->    
-                        <article id="post-1409" class="item tvshows">
-                            <div class="poster">
-                                <img src="04-@@@img-03">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 04-@@@year-03</div>
-                                <div class="mepo"> </div>
-                                <a href="04-@@@url-03">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="04-@@@url-03">04-@@@name-03</a></h3> 
-                                <span>04-@@@genre-03</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 4.4============-->    
-                        <article id="post-1409" class="item tvshows">
-                            <div class="poster">
-                                <img src="04-@@@img-04">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 04-@@@year-04</div>
-                                <div class="mepo"> </div>
-                                <a href="04-@@@url-04">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="04-@@@url-04">04-@@@name-04</a></h3> 
-                                <span>04-@@@genre-04</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 4.5============-->    
-                        <article id="post-1409" class="item tvshows">
-                            <div class="poster">
-                                <img src="04-@@@img-05">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 04-@@@year-05</div>
-                                <div class="mepo"> </div>
-                                <a href="04-@@@url-05">
-                                    <div class="see"></div>
-                                </a>
-                            </div>
-                            <div class="data">
-                                <h3><a href="04-@@@url-05">04-@@@name-05</a></h3> 
-                                <span>04-@@@genre-05</span>
-                            </div>
-                        </article>
-                    </div>
-                <!--===========Row Number 4 End===========--> 
-                    <header>
-                        <h2>Seasons</h2>
-                        <span>24 <a href="https://www.movieblazt.com/seasons/" class="see-all">See all</a></span>
-                    </header>
-                    <div id="seaload" class="load_modules">Loading..</div>
-                    <div id="dt-seasons" class="animation-2 items">
-                <!--===========Row Number 5===========-->
-                    <!--============Aarticle 5.1============-->        
-                        <article class="item se seasons" id="post-1798">
-                            <div class="poster">
-                                <img src="05-@@@img-01">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-01">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-01</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-L-4WAUK4NVk/X2Sib4BpqTI/AAAAAAAAA3Q/j1wRfVwg9YU7c-Rmz8IS3DpMaiEScnGpQCLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2016</div>
+                                    <div class="featu">Tamil</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/24-2016.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-0">05-@@@name-01</a></h3>
-                                <span>05-@@@genre-01</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 5.2============-->    
-                        <article class="item se seasons" id="post-1798">
-                            <div class="poster">
-                                <img src="05-@@@img-02">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-02">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-02</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/24-2016.html">24</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Sci')">Sci-Fi</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-02">05-@@@name-02</a></h3>
-                                <span>05-@@@genre-02</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 5.3============-->    
-                        <article class="item se seasons" id="post-640">
-                            <div class="poster">
-                                <img src="05-@@@img-03">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-03">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-03</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-MJl4uML7bII/X5q3-Tt5YxI/AAAAAAAAB98/5-gDsU-RuT8oCPIXchot75trvwQ0MozEwCLcBGAsYHQ/s320/irupc.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2003</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/2-fast-2-furious-2003.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-03">05-@@@name-03</a></h3>
-                                <span>05-@@@genre-03</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 5.4============-->    
-                        <article class="item se seasons" id="post-638">
-                            <div class="poster">
-                                <img src="05-@@@img-04">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-04">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-04</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/2-fast-2-furious-2003.html">2 Fast 2 Furious</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Thriller')">Thriller</d> | <d onclick="irupcgenre('Crime')">Crime</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-04">05-@@@name-04</a></h3>
-                                <span>05-@@@genre-04</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 5.6============-->    
-                        <article class="item se seasons" id="post-636">
-                            <div class="poster">
-                                <img src="05-@@@img-06">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-06">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-06</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-C38LuCKJR2Q/X39Gu_Wc7NI/AAAAAAAABMA/xCHl5CyP_EY8Vp6UTOSCja7NYlZ7-S2FwCLcBGAsYHQ/s320/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; TV Show</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/9-1-1-tv-series.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-06">05-@@@name-06</a></h3>
-                                <span>05-@@@genre-06</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 5.7============-->    
-                        <article class="item se seasons" id="post-634">
-                            <div class="poster">
-                                <img src="05-@@@img-07">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-07">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-07</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/9-1-1-tv-series.html">9- 1- 1</a></h3>
+                                    <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Adventure')">Adventure</d> | <d onclick="irupcgenre('Crime')">Crime</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-07">05-@@@name-07</a></h3>
-                                <span>05-@@@genre-07</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 5.8============-->    
-                        <article class="item se seasons" id="post-632">
-                            <div class="poster">
-                                <img src="05-@@@img-08">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-08">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-08</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-u6dt9UcnMjA/X2SLvFBYYmI/AAAAAAAAA2A/-arruEeeTKouIpLR_3W52ikaQqYzX9rSwCLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2009</div>
+                                    <div class="featu">Tamil</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/aadhavan-2009.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-08">05-@@@name-08</a></h3>
-                                <span>05-@@@genre-08</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 5.9============-->    
-                        <article class="item se seasons" id="post-630">
-                            <div class="poster">
-                                <img src="05-@@@img-09">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-09">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-09</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/aadhavan-2009.html">Aadhavan</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Comedy')">Comedy</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-09">05-@@@name-09</a></h3>
-                                <span>05-@@@genre-09</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 5.10============-->    
-                        <article class="item se seasons" id="post-628">
-                            <div class="poster">
-                                <img src="05-@@@img-10">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-10">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-10</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-NMuXTeOBE60/X1O76_QACcI/AAAAAAAAArw/S3rLw0_Zb0ouNCd9eX4tDIjYoCidzveaACLcBGAsYHQ/s535/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2006</div>
+                                    <div class="featu">Tamil</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/aathi-2006.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-10">05-@@@name-10</a></h3>
-                                <span>05-@@@genre-10</span>
-                            </div>
-                        </article>
-                    <!--============Aarticle 5.11============-->        
-                        <article class="item se seasons" id="post-626">
-                            <div class="poster">
-                                <img src="05-@@@img-11">
-                                <div class="season_m animation-1">
-                                    <a href="05-@@@url-11">
-                                        <span class="c">season</span>
-                                        <span class="b">05-@@@season-11</span>
-                                        <span class="a">is now Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/aathi-2006.html">Aathi</a></h3>
+                                    <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="05-@@@url-11">05-@@@name-11</a></h3>
-                                <span>05-@@@genre-11</span>
-                            </div>
-                        </article>
-                    </div>
-                    
-                <!--===========Row Number 5 End===========-->     
-                    <header> 
-                        <h2>Episodes</h2> 
-                        <span>285 <a href="https://www.movieblazt.com/episodes/" class="see-all">See all</a></span>
-                    </header>
-                    <div id="epiload" class="load_modules">Loading..</div>
-                    <div id="dt-episodes" class="animation-2 items"> 
-                <!--===========Row Number 6===========-->
-                    <!--============Aarticle 6.1============-->         
-                        <article class="item se episodes" id="post-1296">
-                            <div class="poster">
-                                <img src="06-@@@img-01">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-01">
-                                        <span class="b">06-@@@number-01</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-f2q8s6fzZwc/X4F_AXvEIDI/AAAAAAAABSc/E8dv5ReIufYZ0ZvKL1scvoryaxpW0kj-QCLcBGAsYHQ/s320/1.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2012</div>
+                                    <div class="featu">Hindi</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/agneepath-2012.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-01">06-@@@name-01</a></h3>
-                                <span>06-@@@genre-01</span> 
-                            </div>
-                        </article>
-                    <!--============Aarticle 6.2============-->    
-                        <article class="item se episodes" id="post-1294">
-                            <div class="poster">
-                                <img src="06-@@@img-02">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-02">
-                                        <span class="b">06-@@@number-02</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/agneepath-2012.html">Agneepath</a></h3>
+                                    <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Crime')">Crime</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-02">06-@@@name-02</a></h3>
-                                <span>06-@@@genre-02</span> 
-                            </div>
-                        </article>
-                    <!--============Aarticle 6.3============-->    
-                        <article class="item se episodes" id="post-1292">
-                            <div class="poster">
-                                <img src="06-@@@img-03">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-03">
-                                        <span class="b">06-@@@number-03</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-dlyHB6cPdgc/X3cG4x7D4rI/AAAAAAAABAQ/gGpRo4zxQjYv2YNtfK-_Ig1vTiTjDSk1QCLcBGAsYHQ/s660/kTTY8EygXBhfOZLYRwFQO9bywH3.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2020</div>
+                                    <div class="featu">Telugu</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/ala-vaikunthapurramuloo-2020.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-03">06-@@@name-03</a></h3>
-                                <span>06-@@@genre-03</span> 
-                            </div>
-                        </article>
-                    <!--============Aarticle 6.4============-->    
-                        <article class="item se episodes" id="post-1290">
-                            <div class="poster">
-                                <img src="06-@@@img-04">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-04">
-                                        <span class="b">06-@@@number-04</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/ala-vaikunthapurramuloo-2020.html">Ala Vaikunthapurramuloo</a></h3>
+                                    <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-04">06-@@@name-04</a></h3>
-                                <span>06-@@@genre-04</span> 
-                            </div>
-                        </article>
-                    <!--============Aarticle 6.5============-->    
-                        <article class="item se episodes" id="post-1288">
-                            <div class="poster">
-                                <img src="06-@@@img-05">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-05">
-                                        <span class="b">06-@@@number-05</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-X6iEE6o_mqY/X2SQopO81PI/AAAAAAAAA28/LU1r4aM0n0AB2KWoqT1x_OYI8TCjmL3uACLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2014</div>
+                                    <div class="featu">Tamil</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/anjaan-2014.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-05">06-@@@name-05</a></h3>
-                                <span>06-@@@genre-05</span> 
-                            </div>
-                        </article>
-                    <!--============Aarticle 6.6============-->    
-                        <article class="item se episodes" id="post-1286">
-                            <div class="poster">
-                                <img src="06-@@@img-06">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-06">
-                                        <span class="b">06-@@@number-06</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/anjaan-2014.html">Anjaan</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-06">06-@@@name-06</a></h3>
-                                <span>06-@@@genre-06</span> 
-                            </div>
-                        </article>
-                    <!--============Aarticle 6.7============-->    
-                        <article class="item se episodes" id="post-1284">
-                            <div class="poster">
-                                <img src="06-@@@img-07">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-07">
-                                        <span class="b">06-@@@number-07</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-ZPztKh-7tHQ/X2XIeWedlOI/AAAAAAAAA5g/3lsL3SGKfTQoJrimw_rxyPa_y4w78Vu8ACLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2015</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/ant-man-2015.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-07">06-@@@name-07</a></h3>
-                                <span>06-@@@genre-07</span> 
-                            </div>
-                        </article>
-                    <!--============Aarticle 6.8============-->    
-                        <article class="item se episodes" id="post-1282">
-                            <div class="poster">
-                                <img src="06-@@@img-08">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-08">
-                                        <span class="b">06-@@@number-08</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/ant-man-2015.html">Ant Man</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Adventure')">Adventure</d> | <d onclick="irupcgenre('Comedy')">Comedy</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-08">06-@@@name-08</a></h3>
-                                <span>06-@@@genre-08</span> 
-                            </div>
-                        </article>
-                    <!--============Aarticle 6.9============-->    
-                        <article class="item se episodes" id="post-1280">
-                            <div class="poster">
-                                <img src="06-@@@img-09">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-09">
-                                        <span class="b">06-@@@number-09</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                            </article>
+                            
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-rCRjocC5g_Y/X2XJSew4GuI/AAAAAAAAA5s/yCSNwBEEz9o969_xXhBXHcszx7SLGcFtQCLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2018</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/ant-man-and-wasp-2018.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-09">06-@@@name-09</a></h3>
-                                <span>06-@@@genre-09</span> 
-                            </div>
-                        </article>
-                    <!--============Aarticle 6.10============-->    
-                        <article class="item se episodes" id="post-1278">
-                            <div class="poster">
-                                <img src="06-@@@img-10">
-                                <div class="season_m animation-1">
-                                    <a href="06-@@@url-10">
-                                        <span class="b">06-@@@number-10</span>
-                                        <span class="a">Movies</span>
-                                        <span class="c">Available !!!</span>
-                                    </a>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/ant-man-and-wasp-2018.html">Ant Man and the Wasp</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Adventure')">Adventure</d> | <d onclick="irupcgenre('Comedy')">Comedy</d></span>
                                 </div>
-                            </div>
-                            <div class="data">
-                                <h3><a href="06-@@@url-10">06-@@@name-10</a></h3>
-                                <span>06-@@@genre-10</span> 
-                            </div>
-                        </article>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-6XJcIxzaq2o/X2DrISWcGzI/AAAAAAAAAyg/feryv3K4wAELvVGml-cdfK9Cqu1xR6kZQCLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; TV Show</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/arrow-tv-series.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/arrow-tv-series.html">Arrow</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Adventure')">Adventure</d> | <d onclick="irupcgenre('Crime')">Crime</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-rVhxpOnn7I8/X37g3ZXQdEI/AAAAAAAABJU/YhEcQEMn0-QIjzcLipsYWMYAJhcpeYuhACLcBGAsYHQ/s320/1.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2020</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/arthur-merlin-knights-of-camelot-2020.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/arthur-merlin-knights-of-camelot-2020.html">Arthur & Merlin Knights of Camelot</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Adventure')">Adventure</d> | <d onclick="irupcgenre('History')">History</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-yrg3RX7L_-Q/X5Gr476UrvI/AAAAAAAABx4/dujNc4sK9XwKeqxfGtbHuB7WAYkLzljmwCLcBGAsYHQ/s320/irupc.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2020</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/ava-2020.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/ava-2020.html">Ava</a></h3>
+                                    <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Crime')">Crime</d> |<d onclick="irupcgenre('Thriller')">Thriller</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-pPdRyg2fnk0/X2XM7Cplq6I/AAAAAAAAA6c/8pU8Qj2XX-4_mWa_0o16ukQDC5I0peb9wCLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2019</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/avengers-endgame-2020.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/avengers-endgame-2020.html">Avengers Endgame</a></h3>
+                                    <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Adventure')">Adventure</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-kWxllEgzNvs/X2XLzkQ9C0I/AAAAAAAAA6M/3wn4nVsP0ikBVjcqiHhjPyTTAqtmsX57QCLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2015</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/avengers-age-of-ultron-2015.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/avengers-age-of-ultron-2015.html">Avengers: Age of Ultron</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Adventure')">Adventure</d> | <d onclick="irupcgenre('Sci')">Sci-Fi</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-YvItJcKAB3k/X2XMZpR7_fI/AAAAAAAAA6U/0i1t9w8vYNgHh8u_tWDWXuGXarU6yj-hwCLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2018</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/avengers-infinity-war-2018.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/avengers-infinity-war-2018.html">Avengers: Infinity War</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Adventure')">Adventure</d> | <d onclick="irupcgenre('Sci')">Sci-Fi</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-LUUrUpv0NfA/X2SLKmDusOI/AAAAAAAAA14/lBANJXUeVHsKK7iyo7pF3H_CUw4RCX8pwCLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2009</div>
+                                    <div class="featu">Tamil</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/ayan-2009.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/ayan-2009.html">Ayan</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Romance')">Romance</d> | <d onclick="irupcgenre('Comedy')">Comedy</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-_-V-4Cg1ir0/X4cC1erlQdI/AAAAAAAABes/3rWjQK-rquQFu-xcrB9tejWFnnwlhFguACLcBGAsYHQ/s320/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2019</div>
+                                    <div class="featu">Tamil</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/ayogya-2019.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/ayogya-2019.html">Ayogya</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Drama')">Drama</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-qFRffEL49NM/XzTEt9t0PFI/AAAAAAAAAPc/D4yWvggDooE37oUtmo2NOdDNCX6lOGw0gCLcBGAsYHQ/s1600/Azhagiya%2BTamil%2BMagan%2B2007.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2007</div>
+                                    <div class="featu">Tamil</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/azhagiya-tamil-magan-2007.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/azhagiya-tamil-magan-2007.html">Azhagiya Tamil Magan</a></h3>
+                                    <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
+                                </div>
+                            </article>
+                            
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-I01Ztc8BKPg/X4Uld8WcoEI/AAAAAAAABZM/LQ29hFz25VIx1U5Iw0zfEXgzaZ5oSdrzwCLcBGAsYHQ/s320/1.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2016</div>
+                                    <div class="featu">Hindi</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/baaghi-2016.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/baaghi-2016.html">Baaghi</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-bQ4SSlbNL0E/X4WFPaLvFWI/AAAAAAAABcI/PTVeKvosAcUdZqu8LZELMtbu3uxprVKywCLcBGAsYHQ/s320/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2017</div>
+                                    <div class="featu">Telugu</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/bahubali-2-conclusion-2017.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/bahubali-2-conclusion-2017.html">Baahubali 2: The Conclusion</a></h3>
+                                    <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-RDYLwx1Dwlc/X4WExf_LvdI/AAAAAAAABcA/AMXgQjrS2zEQLip4pekJxvv-uIVGZV0vQCLcBGAsYHQ/s320/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2015</div>
+                                    <div class="featu">Telugu</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/bahubali-beginning-2015.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/bahubali-beginning-2015.html">Baahubali: The Beginning</a></h3>
+                                    <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d></span>
+                                </div>
+                            </article>
+
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-LdalyRkR3aE/X4wddrkKywI/AAAAAAAABsA/RuoOyl6q8qEffbH67bmO-A58UlMY05i7ACLcBGAsYHQ/s320/irupc.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2020</div>
+                                    <div class="featu">English</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/10/bad-boys-for-life-2020.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/10/bad-boys-for-life-2020.html">Bad Boys for Life</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Crime')">Crime</d> |<d onclick="irupcgenre('Thriller')">Thriller</d></span>
+                                </div>
+                            </article>
+                            
+                            <article class="item se seasons">
+                                <div class="poster">
+                                    <img src="https://1.bp.blogspot.com/-yFy1S0FgXeY/X1YPVtvQFKI/AAAAAAAAAtU/nCW-bwtrSyke_zV-2wlkbQshfSxuGlWKwCLcBGAsYHQ/s900/111.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2017</div>
+                                    <div class="featu">Tamil</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2020/08/bairavaa-2017.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2020/08/bairavaa-2017.html">Bairavaa</a></h3>
+                                    <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
+                                </div>
+                            </article>
+                            <!-- 1 --> 
+                        </div>
+                        <div class="pagination">
+                            <span>Page <script>document.write(pgnumber);</script> of <script>document.write(totalActionpgs);</script></span>
+                            <span class="current"><script>document.write(pgnumber);</script></span>
+                            <a onclick="ipgenrepgs('Action', 2)" class="inactive"><script>document.write(pgnumber+1);</script></a>
+                            <a onclick="ipgenrepgs('Action', 3)" class="inactive"><script>document.write(pgnumber+2);</script></a>
+                            <a onclick="ipgenrepgs('Action', 4)" class="inactive"><script>document.write(pgnumber+3);</script></a>
+                        </div>
+                        <div class='resppages'>
+                            <a onclick="ipgenrepgs('Action', 2)"><i class="fas fa-forward"></i> Next Page</a>
+                        </div>
                     </div>
             <div id="nav"></div>
             <div id="footer"></div>
