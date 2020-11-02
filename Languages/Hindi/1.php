@@ -688,10 +688,10 @@
                         <div class="pagination">
                             <span>Page <script>document.write(pgnumber);</script> of <script>document.write(totalHindipgs);</script></span>
                             <span class="current"><script>document.write(pgnumber);</script></span>
-                            <a onclick="ipgenrepgs('Hindi', pgnumber+1)" class="inactive"><script>document.write(pgnumber+1);</script></a>
+                            <a onclick="iplangpgs('Hindi', pgnumber+1)" class="inactive"><script>document.write(pgnumber+1);</script></a>
                         </div>
                         <div class='resppages'>
-                            <a onclick="ipgenrepgs('Hindi', pgnumber+1)"><i class="fas fa-forward"></i> Next Page</a>
+                            <a onclick="iplangpgs('Hindi', pgnumber+1)"><i class="fas fa-forward"></i> Next Page</a>
                         </div>
                     </div>
                     <div class="sidebar right scrolling">
