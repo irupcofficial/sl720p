@@ -552,9 +552,10 @@
                             <a onclick="ipgenrepgs('Action', 2)"><i class="fas fa-forward"></i> Next Page</a>
                         </div>
                     </div>
+                        </div>
             <div id="nav"></div>
             <div id="footer"></div>
-        </div> 
+ 
     </div>
     
     <script type="text/javascript">
