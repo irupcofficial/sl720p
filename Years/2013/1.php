@@ -542,7 +542,7 @@
                             <!-- 1 --> 
                         </div>
                         <div class="pagination">
-                            <span>Page <script>document.write(pgnumber);</script> of <script>document.write(total2020pgs);</script></span>
+                            <span>Page <script>document.write(pgnumber);</script> of <script>document.write(total2013pgs);</script></span>
                             <span class="current"><script>document.write(pgnumber);</script></span>
                         </div>
                         <div class='resppages'>
