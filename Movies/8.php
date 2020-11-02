@@ -551,7 +551,7 @@
                         <div class='resppages'>
                             <a onclick="irupcMoviepgurl(8-1)"><i class="fas fa-backward"></i> Back Page</a>
                             <a onclick="irupcMoviepgurl(8+1)"><i class="fas fa-forward"></i> Next Page</a>
-                        </div>
+                        </div><br><br>
                 <div id="footer"></div>
                     </div>
                 <div id="nav"></div>
