@@ -695,8 +695,8 @@
                             <a onclick="iplangpgs('English', pgnumber+2)" class="inactive"><script>document.write(pgnumber+2);</script></a>
                         </div>
                         <div class='resppages'>
-                            <a onclick="iplangpgs('English', pgnumber-1)"><i class="fas fa-forward"></i> Next Page</a>
-                            <a onclick="iplangpgs('English', pgnumber-1)"><i class="fas fa-forward"></i> Next Page</a>
+                            <a onclick="iplangpgs('English', pgnumber-1)"><i class="fas fa-forward"></i> Back Page</a>
+                            <a onclick="iplangpgs('English', pgnumber+1)"><i class="fas fa-forward"></i> Next Page</a>
                         </div>
                     </div>
                     <div class="sidebar right scrolling">
