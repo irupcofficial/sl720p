@@ -65,11 +65,11 @@
     </script>
     <script> 
     $(function(){
-    $("#mainheader").load("../assets/Head/mainheader.php"); 
-    $("#respheader").load("../assets/Head/respheader.php");
-    $("#letter").load("../assets/Head/letter.php");
-    $("#nav").load("../assets/Head/nav.php");
-    $("#footer").load("../assets/Head/mainfooter.php");
+    $("#mainheader").load("/assets/Head/mainheader.php"); 
+    $("#respheader").load("/assets/Head/respheader.php");
+    $("#letter").load("/assets/Head/letter.php");
+    $("#nav").load("/assets/Head/nav.php");
+    $("#footer").load("/assets/Head/mainfooter.php");
     $("#h1header").load("pgheader.php");
     });
     </script> 
