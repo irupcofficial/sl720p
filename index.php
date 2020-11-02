@@ -70,6 +70,7 @@ $(function(){
     </head>
     <body data-rsssl=1 class="home blog elementor-default">
 <div id="header"></div>
+        <div id="contenedor">
             <!--===========Row Number 1===========-->
             <div class="module">
                 <div class="content full_width_layout">
