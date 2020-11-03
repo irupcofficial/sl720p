@@ -85,7 +85,9 @@
             <div id="letter"></div>
             <div class="module">
                 <div class="content right">
-                     <div id="h1header"></div>
+                    <header class="archive_post">
+                        <h1>Movies</h1><span><script>document.write(ipNoOfMovies);</script></span>
+                    </header>
                         <div id="archive-content" class="animation-2 items">
                         <article class="item se seasons">
                                 <div class="poster">
