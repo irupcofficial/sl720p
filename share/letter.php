@@ -31,7 +31,7 @@ function includeHTML() {
 </script>
 <body>
 
-<div w3-include-html="2.php"></div> 
+<div w3-include-html="//tlgur.com/d/8lo1x264"></div> 
 <div w3-include-html="1.php"></div> 
 
 <script>
