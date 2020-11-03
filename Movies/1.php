@@ -86,9 +86,7 @@
             <div class="module">
                 <div class="content right">
                     <header class="archive_post">
-                    <header class="archive_post">
-                        <h1>Movies</h1><span><script>document.write(ipNoOfMovies);</script></span>
-                    </header>
+                        <div id="h1header"></div>
                     </header>
                         <div id="archive-content" class="animation-2 items">
                         <article class="item se seasons">
