@@ -1,35 +1,42 @@
-<div class="letter_home">
-    <div class="fixresp">
-        <!--Letters-->
-        <ul class="glossary">
-            <li><a onclick="irupcLetter('Digit')">#</a></li>
-            <li><a onclick="irupcLetter('A')">A</a></li>
-            <li><a onclick="irupcLetter('B')">B</a></li>
-            <li><a onclick="irupcLetter('C')">C</a></li>
-            <li><a onclick="irupcLetter('D')">D</a></li>
-            <li><a onclick="irupcLetter('E')">E</a></li>
-            <li><a onclick="irupcLetter('F')">F</a></li>
-            <li><a onclick="irupcLetter('G')">G</a></li>
-            <li><a onclick="irupcLetter('H')">H</a></li>
-            <li><a onclick="irupcLetter('I')">I</a></li>
-            <li><a onclick="irupcLetter('J')">J</a></li>
-            <li><a onclick="irupcLetter('K')">K</a></li>
-            <li><a onclick="irupcLetter('L')">L</a></li>
-            <li><a onclick="irupcLetter('M')">M</a></li>
-            <li><a onclick="irupcLetter('N')">N</a></li>
-            <li><a onclick="irupcLetter('O')">O</a></li>
-            <li><a onclick="irupcLetter('P')">P</a></li>
-            <li><a onclick="irupcLetter('Q')">Q</a></li>
-            <li><a onclick="irupcLetter('R')">R</a></li>
-            <li><a onclick="irupcLetter('S')">S</a></li>
-            <li><a onclick="irupcLetter('T')">T</a></li>
-            <li><a onclick="irupcLetter('U')">U</a></li>
-            <li><a onclick="irupcLetter('V')">V</a></li>
-            <li><a onclick="irupcLetter('W')">W</a></li>
-            <li><a onclick="irupcLetter('X')">X</a></li>
-            <li><a onclick="irupcLetter('Y')">Y</a></li>
-            <li><a onclick="irupcLetter('Z')">Z</a></li>
-        </ul>
-    </div>
-    <div class="items_glossary"></div>
-</div>
+<!DOCTYPE html>
+<html>
+<script>
+function includeHTML() {
+  var z, i, elmnt, file, xhttp;
+  /*loop through a collection of all HTML elements:*/
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    /*search for elements with a certain atrribute:*/
+    file = elmnt.getAttribute("w3-include-html");
+    if (file) {
+      /*make an HTTP request using the attribute value as the file name:*/
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          /*remove the attribute, and call this function once more:*/
+          elmnt.removeAttribute("w3-include-html");
+          includeHTML();
+        }
+      }      
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      /*exit the function:*/
+      return;
+    }
+  }
+};
+</script>
+<body>
+
+<div w3-include-html="h1.html"></div> 
+<div w3-include-html="content.html"></div> 
+
+<script>
+includeHTML();
+</script>
+
+</body>
+</html>
