@@ -547,11 +547,11 @@
                             <a onclick="irupcMoviepgurl(1+4)" class="inactive"><script>document.write(pgnumber+4);</script></a>
                             <a onclick="irupcMoviepgurl(1+5)" class="inactive"><script>document.write(pgnumber+5);</script></a>
                             <a onclick="irupcMoviepgurl(1+6)" class="inactive"><script>document.write(pgnumber+6);</script></a>
-                                                <div class="pagination"></div>
                         </div>
                         <div class='resppages'>
                             <a onclick="irupcMoviepgurl(1+1)"><i class="fas fa-forward"></i> Next Page</a>
                         </div>
+                     <div class="pagination"></div>
                 <div id="footer"></div>
                     </div>
                 <div id="nav"></div>
