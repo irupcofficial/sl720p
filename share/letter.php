@@ -31,8 +31,8 @@ function includeHTML() {
 </script>
 <body>
 
-<div w3-include-html="h1.html"></div> 
-<div w3-include-html="content.html"></div> 
+<div w3-include-html="2.php"></div> 
+<div w3-include-html="1.php"></div> 
 
 <script>
 includeHTML();
