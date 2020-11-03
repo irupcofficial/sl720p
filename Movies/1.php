@@ -36,6 +36,7 @@
     <!-- Irupc added codes-->
     <script src="https://kit.fontawesome.com/3b84b8effa.js" crossorigin="anonymous"></script>
     <link rel='stylesheet' href='/assets/css/irupc.css' type='text/css' media='all' />
+    <script type='text/javascript' src='/assets/js/url.js'></script>
     <style>
         .irupcli{
             font-size: small;
