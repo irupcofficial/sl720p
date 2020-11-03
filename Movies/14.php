@@ -67,7 +67,6 @@
     $("#letter").load("/assets/Head/letter.php");
     $("#nav").load("/assets/Head/nav.php");
     $("#footer").load("/assets/Head/mainfooter.php");
-    $("#h1header").load("pgheader.php");
     });
     </script> 
     <script>
@@ -86,7 +85,7 @@
             <div class="module">
                 <div class="content right">
                     <header class="archive_post">
-                        <div id="h1header"></div>
+                        <h1>Movies</h1><span><script>document.write(ipNoOfMovies);</script></span>
                     </header>
                         <div id="archive-content" class="animation-2 items">
                         <article class="item se seasons">
