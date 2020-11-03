@@ -85,9 +85,7 @@
             <div id="letter"></div>
             <div class="module">
                 <div class="content right">
-                    <header class="archive_post">
-                        <div id="h1header"></div>
-                    </header>
+                     <div id="h1header"></div>
                         <div id="archive-content" class="animation-2 items">
                         <article class="item se seasons">
                                 <div class="poster">
