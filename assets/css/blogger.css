@@ -1,0 +1,108 @@
+body {margin:0px; height:100vh; background:linear-gradient(to right, #00acee, #205172);}
+
+/*=======Blink effect=======*/
+blink{-webkit-animation:blink 1s linear infinite; -moz-animation:blink 1s linear infinite; animation:blink 1s linear infinite; }
+@-webkit-keyframes blink{ 0%{opacity:1;} 50%{opacity:0} 100%{opacity:1;} }
+@-moz-keyframes blink{0%{opacity:1;} 50%{opacity:0} 100%{opacity:1;}}
+@keyframes blink{0%{opacity:1;} 50%{opacity:0} 100%{opacity:1;}}
+/*=======Blink Effect End=======*/
+
+/*======Social Links - Start =======*/
+.social-menu-irupc ul {position: fixed; top: 92%; left: 50%; transform: translate(-50%, -50%); padding: 0; margin: 0; display: flex;}
+.social-menu-irupc ul li {list-style: none; margin: 0 10px;}
+.social-menu-irupc ul li .fa {color: #000000; font-size: 25px; line-height: 50px; transition: .5s;}
+.social-menu-irupc ul li .fa:hover {color: #ffffff;}
+.social-menu-irupc ul li .irupcsocialgk {position: relative; display: block; width: 50px; height: 50px; border-radius: 50%; background-color: white; text-align: center; transition: 0.5s; transform: translate(0,0px); box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.5);}
+.social-menu-irupc ul li .irupcsocialgk:hover {transform: rotate(0deg) skew(0deg) translate(0, -10px);}
+.social-menu-irupc ul li:nth-child(1) .irupcsocialgk:hover {background-color: #3b5999;}
+.social-menu-irupc ul li:nth-child(2) .irupcsocialgk:hover {background-color: #55acee;}
+.social-menu-irupc ul li:nth-child(3) .irupcsocialgk:hover {background-color: #e4405f;}
+.social-menu-irupc ul li:nth-child(4) .irupcsocialgk:hover {background-color: #cd201f;}
+.social-menu-irupc ul li:nth-child(5) .irupcsocialgk:hover {background-color: #0077B5;}
+/*======Social Links - End =======*/
+    
+/*====== Seasons Show Hide Window =======*/     
+#irupcS01{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS02{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS03{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS04{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS05{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS06{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS07{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS08{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS09{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS10{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS11{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS12{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS13{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS14{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+#irupcS15{display:none; background:#000; border:1px solid black; width:100%; height:100%; border-radius: 20px;}
+/*====== Seasons Show Hide Window End =======*/
+
+/*Post Text Editings*/
+.synopsis{color: #1df31d; font-size: 40px; font-weight: bold;}
+
+/*====^^^^^^^^^Styles inside popup start^^^^^^^^^====*/
+
+.ips{
+  padding-left: 20px;    
+}
+
+/*Pop up - start*/
+.mobilePopup .mobileOverlay {position:fixed; top:0px; left:0px; width:100vw; height:100vh; background:rgba(0,0,0,0.7); z-index:1; display:none;}               
+.mobilePopup .mobileContent {position:absolute; top:50%; left:50%; transform:translate(-50%,-50%) scale(0); background:#000; z-index:2; text-align:center; padding:20px; box-sizing:border-box;  font-family:"Open Sans",sans-serif;  color: #fff;}
+.mobilePopup .mobileClose-btn {cursor:pointer; position:absolute; right:20px; top:20px; width:30px; height:30px; background:#fff; color:#000; font-size:25px; font-weight:600; line-height:30px; text-align:center; border-radius:50%;}
+.mobilePopup.active .mobileOverlay {display:block;}          
+.mobilePopup.active .mobileContent {transition:all 300ms ease-in-out; transform:translate(-50%,-50%) scale(1);}
+/*Pop up end*/
+
+/*Header Warning msg*/
+.mobileContent .mobilePheader{font-size: 25px; font-weight: bolder; padding: 0; margin: 0; color: yellow;}
+  
+/*Header Warning msg child*/
+.mobileContent .mobileSheader{font-size: 15px; padding: 0; margin: 0;}
+
+/*Header bar*/
+.ipPopLine{border-top: 1px solid red;}
+
+/*Movie Detail Wrapper*/
+.mobileIpDetails{margin: 0; background-color: #000; color: black; overflow: auto; border-color: black; width: 100%; height: auto; text-align: center; display: flex;}
+
+/*Icon Size*/
+.mobileIpDetails i{font-size: 20px;}
+
+/*Download btn effect*/
+.mobileContent .url1, .url2, .url3{padding: 10px; margin: 10px; background-color: #19a54c; color: black; float: none; text-align: center; font-weight: bolder; border-color: #000;}
+
+/*Neon Hover effect*/
+.url1:hover, .url2:hover, .url3:hover{background: #128C7E; box-shadow: 0 0 10px #128C7E, 0 0 40px #128C7E, 0 0 80px #128C7E; color: #000;}
+  
+/*Advert inside mobilePopup*/
+.adInmobilePopUp{width: 100%; height: auto; margin: 0; padding: 0;}
+
+/*TG link*/
+.mobileIrupcTelegram{background-color: #0088cc; color: black; border: none; text-align: center; text-decoration: none; display: inline-block; margin: 4px 2px; transition-duration: 0.3s; cursor: pointer; border-radius: 50px; font-weight: bold;}
+.mobileIrupcTelegram:hover{background-color: #0088cc; color: #fff; border-radius: 0px;}
+
+/*Movie Details for Mobile*/
+.mobileIpDetails > div{width: 100%; height: auto; padding: 4px; margin: 4px; background-color: #34B7F1; font-family: 'Architects Daughter', cursive; font-size: 20px; font-weight: bolder; border: 1px solid;}
+.mobileIpRes{float: left;}
+.mobileIpRip{display: inline-block;margin: 0 auto;}
+.mobileIpSize{float: right;}
+
+.mobileDetailText{float: none; padding: 0; margin: 0; text-align: center; font-family: monospace;}
+.mobileDetailWrapper{padding: 2px; margin: 2px; border: 1px solid; border-color: yellow; background-color: #000; font-size: 20px; font-weight: bolder;}
+.mobilePopup .mobileContent {width:350px;}
+.mobileIrupcTelegram{padding: 8px; font-size: 14px; float: center;}
+.mobileContent .url1, .url2, .url3{width: 89%; float: center;}
+.popUpHeaderWrapper{margin: 0; padding: 2px; border: 2px solid; border-color:#ff0000; border-radius: 20px;}
+
+.popUpHeaderWrapper .mobilePheader{padding: 15px;}
+
+/*Main button inside post*/
+.postbutton {width: 85%; height: auto; background-color: #128C7E; background-image: linear-gradient(#4aff7a, #25D366, #000000); color: black; padding: 15px; font-size: larger; font-weight: bolder; border: none; margin: 8px; font-weight: bolder;}
+
+body{margin:0px; height:100vh; background:linear-gradient(to right, #00acee, #205172);}
+
+/*Hover tag for button*/
+button:hover{background: #128C7E;box-shadow: 0 0 10px #128C7E, 0 0 40px #128C7E, 0 0 80px #128C7E; color: #000;}
