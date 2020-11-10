@@ -7,22 +7,22 @@ var space="    ";
     document.getElementById("subtitle").innerHTML = "Watch Online";
     
 function iruPcOver(){
-    document.getElementById("subtitle").innerHTML = "Coming Soon";
+    document.getElementById("subtitle").innerHTML = variableWordOver3;
 }
 function iruPcOut(){
-    document.getElementById("subtitle").innerHTML = "Watch Online";
+    document.getElementById("subtitle").innerHTML = variableWordOut3;
 }
 
 function iruPcOver1(){
-    document.getElementById("dlWC1").innerHTML = variableWordOver;
+    document.getElementById("dlWC1").innerHTML = variableWordOver1;
 }
 function iruPcOut1(){
-    document.getElementById("dlWC1").innerHTML = variableWordOut;
+    document.getElementById("dlWC1").innerHTML = variableWordOut1;
 }
 
 function iruPcOver2(){
-    document.getElementById("dlWC2").innerHTML = variableWordOver;
+    document.getElementById("dlWC2").innerHTML = variableWordOver2;
 }
 function iruPcOut2(){
-    document.getElementById("dlWC2").innerHTML = variableWordOut;
+    document.getElementById("dlWC2").innerHTML = variableWordOut2;
 }
