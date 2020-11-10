@@ -13,6 +13,6 @@ function iruPcOut(){
     document.getElementById("subtitle").innerHTML = "Watch Online";
 }
 function nourl(){
-  document.getElementsByID("dlWordChanger").inneHTML = "variableWord";
-  document.getElementsByID("subtitle").inneHTML = "variableWord";
+  document.getElementsByID("dlWordChanger").inneHTML = variableWord;
+  document.getElementsByID("subtitle").inneHTML = variableWord;
 }
