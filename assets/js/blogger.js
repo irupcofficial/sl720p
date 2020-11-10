@@ -12,7 +12,17 @@ function iruPcOver(){
 function iruPcOut(){
     document.getElementById("subtitle").innerHTML = "Watch Online";
 }
-function nourl(){
-  document.getElementsByID("dlWordChanger").inneHTML = variableWord;
-  document.getElementsByID("subtitle").inneHTML = variableWord;
+
+function iruPcOver1(){
+    document.getElementById("dlWC1").innerHTML = variableWordOver;
+}
+function iruPcOut1(){
+    document.getElementById("dlWC1").innerHTML = variableWordOut;
+}
+
+function iruPcOver2(){
+    document.getElementById("dlWC2").innerHTML = variableWordOver;
+}
+function iruPcOut2(){
+    document.getElementById("dlWC2").innerHTML = variableWordOut;
 }
