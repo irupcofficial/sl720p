@@ -7,7 +7,7 @@ var space="    ";
     document.getElementById("subtitle").innerHTML = "Watch Online";
     
 function iruPcOver(){
-    document.getElementById("subtitle").innerHTML = "With සිංහල Subtitle";
+    document.getElementById("subtitle").innerHTML = "Coming Soon";
 }
 function iruPcOut(){
     document.getElementById("subtitle").innerHTML = "Watch Online";
