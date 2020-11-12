@@ -26,3 +26,5 @@ function iruPcOver2(){
 function iruPcOut2(){
     document.getElementById("dlWC2").innerHTML = variableWordOut2;
 }
+    document.getElementById("dlWC1").innerHTML = "Download Now";
+    document.getElementById("dlWC2").innerHTML = "Download Now";
