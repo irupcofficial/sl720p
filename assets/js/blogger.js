@@ -1,4 +1,4 @@
-var space="    ";
+  	var space="    ";
   document.getElementById("ips1").innerHTML = space;
   document.getElementById("ips2").innerHTML = space;
   document.getElementById("ips3").innerHTML = space;
