@@ -1,0 +1,27 @@
+s01e01x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz_IruPC.net_S01E01.mp4"; 
+s01e02x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz_IruPC.net_E02.HDTV.mp4";
+s01e03x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E03.HDTV.XviD-IruPC.net-.mp4";
+s01e04x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E04_IruPC.net_.mp4";
+s01e05x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E05_IruPC.net_.mp4";
+s01e06x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E06.HDTV.XviD-IruPC.net-1.mp4";
+s01e07x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E07.HDTV.XviD-IruPC.net.mp4";
+s01e08x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E08.HDTV.XviD-IruPC.net-.mp4";
+s01e09x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E09.HDTV.x264-IruPC.net-1.mp4";
+s01e10x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E10.HDTV.x264_IruPC.net_.mp4";
+s01e11x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E11.HDTV.x264-IruPC.net-.mp4";
+s01e12x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E12.HDTV.x264-IruPC.net-.mp4";
+s01e13x = "https://download.irupc.xyz/0:/TV.Shows/Alcatraz/Alcatraz.S01E13.HDTV.x264-IruPC.net-.mp4";
+
+s01e01y = "https://irupc-net.herokuapp.com/206145959271516/Alcatraz%20S01E01.mp4"; 
+s01e02y = "https://irupc-net.herokuapp.com/206163139140700/alcatraz.102.hdtv-lol-1.mp4";
+s01e03y = "https://irupc-net.herokuapp.com/206180319009884/Alcatraz.S01E03.HDTV.XviD-LOL.mp4";
+s01e04y = "https://irupc-net.herokuapp.com/206197498879068/Alcatraz.S01E04-1.mp4";
+s01e05y = "https://irupc-net.herokuapp.com/206214678748252/Alcatraz.S01E05.mp4";
+s01e06y = "https://irupc-net.herokuapp.com/206231858617436/Alcatraz.S01E06.HDTV.XviD-LOL-1.mp4";
+s01e07y = "https://irupc-net.herokuapp.com/206249038486620/Alcatraz.S01E07.HDTV.XviD-LOL.mp4";
+s01e08y = "https://irupc-net.herokuapp.com/206266218355804/Alcatraz.S01E08.HDTV.XviD-REFiLL-2.mp4";
+s01e09y = "https://irupc-net.herokuapp.com/206283398224988/Alcatraz.S01E09.HDTV.x264-LOL-1.mp4";
+s01e10y = "https://irupc-net.herokuapp.com/206334937832540/Alcatraz.S01E10.HDTV.x264-LOL.mp4";
+s01e11y = "https://irupc-net.herokuapp.com/206352117701724/Alcatraz.S01E11.HDTV.x264-LOL.mp4";
+s01e12y = "https://irupc-net.herokuapp.com/206300578094172/Alcatraz.S01E12.HDTV.x264-LOL.mp4";
+s01e13y = "https://irupc-net.herokuapp.com/206317757963356/Alcatraz.S01E13.HDTV.x264-LOL.mp4";
