@@ -127,3 +127,8 @@ button:hover{background: #128C7E;box-shadow: 0 0 10px #128C7E, 0 0 40px #128C7E,
   .epibutton{ width: 30%; height: auto; background-color: #1DB954; color: black; border: none; text-align: center; text-decoration: none; display: inline-block; margin: 4px 2px; padding: 4px; font-size: medium; cursor: pointer;}
 
 .majorWrapperByIp{ display: none;}
+/*Season Name in PopUp*/
+.seasonWraerFather{padding: 2px; margin: 2px; border: 1px solid; border-color: yellow; background-color: #000; font-size: 20px; font-weight: bolder;}
+.seasonWrapper{margin: 0; background-color: #000; color: black; overflow: auto; border-color: black; width: 100%; height: auto; text-align: center; display: flex;}
+.seasonWraerFather{ display: none;}
+.seasonWrapper > div{ width: 40%; height: auto; padding: 4px; margin: 4px; background-color: #34B7F1; font-family: 'Architects Daughter', cursive; font-size: 20px; font-weight: bolder; border: 1px solid;}
