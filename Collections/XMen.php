@@ -92,7 +92,7 @@
                         <div id="archive-content" class="animation-2 items">                                            
                             <article class="item se seasons">
                                 <div class="poster">
-                                    <img src="https://1.bp.blogspot.com/-vyZeNVI1H24/X4pamYI4LNI/AAAAAAAABpY/4zRRElblsRAGFAWSQFLZmTb6xQQQVInmQCLcBGAsYHQ/s320/irupc.jpg">
+                                    <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZNw9xxtwbEf25NYoz52KdbXHPM.jpg">
                                     <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2020</div>
                                     <div class="featu">English</div>
                                     <div class="season_m animation-1">
@@ -109,7 +109,7 @@
                             </article>                        
                             <article class="item se seasons">
                                 <div class="poster">
-                                    <img src="https://1.bp.blogspot.com/-q9hdMO2I75w/X4ldeRn2IGI/AAAAAAAABhs/Bn6D47HDem8HhbFcTPFbuGVwmo_XaYl3gCLcBGAsYHQ/s320/irupc.jpg">
+                                    <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCTJPelKGLhALq3r51A9uMonxKj.jpg">
                                     <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2019</div>
                                     <div class="featu">English</div>
                                     <div class="season_m animation-1">
