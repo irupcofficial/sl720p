@@ -31,3 +31,10 @@ function unhideSeasons(){ document.getElementById("totalWrapper").style.display=
 function togglePopupa(noEpisode, url1, url2){ document.getElementById("popup-1").classList.toggle("active"); document.getElementById("sheadermsg").style.display='none'; document.getElementById("headermsg").style.display='block'; document.getElementById("numberOfEpisode").innerHTML = noEpisode; document.getElementById("url1").onclick = function() {url(url1)}; document.getElementById("url2").onclick = function() {url(url2)}; document.getElementById("url3").onclick = function() {watch(url1)}; }
 
 function togglePopupaa(noEpisode, url1, url2){ document.getElementById("popup-1").classList.toggle("active"); document.getElementById('headermsg').style.display='block'; document.getElementById('sheadermsg').style.display='block'; document.getElementById("numberOfEpisode").innerHTML = noEpisode; document.getElementById("url1").onclick = function() {url(url1)}; document.getElementById("url2").onclick = function() {url(url2)}; document.getElementById("url3").onclick = function() {watch(url1)}; }
+
+        jQuery(function(){
+        jQuery('.ipdbtn').click(function(){
+            jQuery('.target').hide();
+            jQuery('#irupcS0'+$(this).attr('target')).show();
+        });
+    });
