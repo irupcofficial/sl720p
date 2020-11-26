@@ -9,15 +9,15 @@
                     <li><a href="/Movies/1.php"><i class="fas fa-caret-down"></i>Movies</a>
                         <ul class="sub-menu"><div class="irupcli">
                             ---------------------------------------------------<br><br>
-                                    <c href="/Languages/English/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>English<br></div></c><br>
-                                    <c href="/Languages/Hindi/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Hindi<br></div></c><br>
-                                    <c href="/Languages/Tamil/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Tamil<br></div></c><br>
-                                    <c href="/Languages/Telugu/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Telugu<br></div></c><br>
-                                    <c href="/Languages/Malayalam/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Malayalam<br></div></c><br>
-                                    <c href="/Languages/Kannada/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Kannada<br></div></c><br>
-                                    <c href="/Languages/Tamil/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Tamil<br></div></c><br>
-                                    <c href="/Languages/Korean/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Korean<br></div></c><br>
-                                    <c href="/Languages/Other/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Other<br></div></c><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Languages/English/1.php">English</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Languages/Hindi/1.php">Hindi</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Languages/Tamil/1.php">Tamil</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Languages/Telugu/1.php">Telugu</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Languages/Malayalam/1.php">Malayalam</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Languages/Kannada/1.php">Kannada</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Languages/Tamil/1.php">Tamil</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Languages/Korean/1.php">Korean</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Languages/Other/1.php">Other</a><br></div><br>
                                     ---------------------------------------------------<br><br>
                                 </div></ul>
                             </li>
@@ -25,21 +25,21 @@
                             <li><a><i class="fas fa-caret-down"></i>Genres</a>
                                 <ul class="sub-menu">
                                     ---------------------------------------------------<br><br>
-                                    <c href="/Genres/Action/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Action<br></div></c><br>
-                                    <c href="/Genres/Adventure/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Adventure<br></div></c><br>
-                                    <c href="/Genres/Romance/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Romance<br></div></c><br>
-                                    <c href="/Genres/Crime/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Crime<br></div></c><br>
-                                    <c href="/Genres/Comedy/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Comedy<br></div></c><br>
-                                    <c href="/Genres/Drama/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Drama<br></div></c><br>
-                                    <c href="/Genres/Horror/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Horror<br></div></c><br>
-                                    <c href="/Genres/Family/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Family<br></div></c><br>
-                                    <c href="/Genres/Fantasy/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Fantasy<br></div></c><br>
-                                    <c href="/Genres/Animation/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Animation<br></div></c><br>
-                                    <c href="/Genres/Documentary/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Documentary<br></div></c><br>
-                                    <c href="/Genres/Thriller/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Thriller<br></div></c><br>
-                                    <c href="/Genres/Mystery/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Mystery<br></div></c><br>
-                                    <c href="/Genres/Sci/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>Sci<br></div></c><br>
-                                    <c href="/Genres/History/1.php"><div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i>History<br></div></c><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Action/1.php">Action</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Adventure/1.php">Adventure</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Romance/1.php">Romance</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Crime/1.php">Crime</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Comedy/1.php">Comedy</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Drama/1.php">Drama</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Horror/1.php">Horror</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Family/1.php">Family</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Fantasy/1.php">Fantasy</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Animation/1.php">Animation</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Documentary/1.php">Documentary</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Thriller/1.php">Thriller</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Mystery/1.php">Mystery</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/Sci/1.php">Sci-Fi</a><br></div><br>
+                                    <div class="ipli"><i class="fas fa-caret-right"><div class="ips"></div></i><a href="/Genres/History/1.php">History</a><br></div><br>
                             ---------------------------------------------------<br><br>
                         </ul>
                     </li>
