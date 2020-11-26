@@ -19,7 +19,7 @@
         }
         
         function irupclang(iptype){
-            window.open("https://movieslk.herokuapp.com/Langages/"+iptype+"/1.php")
+            window.open("https://movieslk.herokuapp.com/Languages/"+iptype+"/1.php")
         }
 
         function irupcyear(iptype){
@@ -39,5 +39,6 @@
         }
 
         totalmoviepgs=20;
+        totaltvpgs=3;
         ipNoOfMovies=370;
         totalActionpgs=11;
