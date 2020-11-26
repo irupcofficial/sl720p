@@ -10,7 +10,7 @@
   <div class="dt_mainmeta">
       <div class="ipnavsocial">
           <div> 
-              <b class="irupcTelegram" onclick="iptelegram()"><span style="font-size: 20px;"><i class="fab fa-telegram-plane"></i></span>&ThickSpace; Join Our Telegram Channel</b>
+              <b href="https://t.me/top_movie_Links" class="irupcTelegram"><span style="font-size: 20px;"><i class="fab fa-telegram-plane"></i></span>&ThickSpace; Join Our Telegram Channel</b>
           </div>
       </div>
       <div id="ipgenre1">
@@ -47,26 +47,26 @@
           <h2 class="widget-title"><b>Most Popular Movies</b></h2><br>
           </aside>
       <article class="w_item_a"> 
-          <a onclick="ipTopMovie1()">
+          <a href="https://www.irupc.net/2020/11/u-turn-2019.html">
               <div class="image"> 
-                  <img src="http://movieslk.herokuapp.com/Uploads/1.jpg">
-                  <div class="data"><h3><script>document.write(ipTopMovie1);</script></h3></div>
+                  <img src="/Uploads/1.jpg">
+                  <div class="data"><h3>U-Turn</h3><span class="wdate">2019</span></div>
               </div> 
           </a>
       </article>
       <article class="w_item_a"> 
           <a onclick="ipTopMovie2()">
               <div class="image"> 
-                  <img src="http://movieslk.herokuapp.com/Uploads/2.jpg">
-                  <div class="data"><h3><script>document.write(ipTopMovie2);</script></h3></div>
+                  <img src="/Uploads/2.jpg">
+                  <div class="data"><h3>Pacific Rim Uprising</h3><span class="wdate">2018</span></div>
               </div> 
           </a>
       </article>
       <article class="w_item_a"> 
           <a onclick="ipTopMovie2()">
               <div class="image"> 
-                  <img src="http://movieslk.herokuapp.com/Uploads/3.jpg">
-                  <div class="data"><h3><script>document.write(ipTopMovie2);</script></h3></div>
+                  <img src="/Uploads/3.jpg">
+                  <div class="data"><h3>V</h3><span class="wdate">2020</span></div>
               </div> 
           </a>
       </article>
@@ -98,7 +98,7 @@
   </div>
   <div class="ipnavsocial">
       <div> 
-          <b class="irupcWhatsApp" onclick="ipwhatsapp()"><span style="font-size: 20px;"><i class="fab fa-whatsapp"></i></span>&ThickSpace; Join Our WhatsApp Group!!!</b>
+          <b href="https://chat.whatsapp.com/Id2RBBi0dX9A6P6EiVHASR" class="irupcWhatsApp"><span style="font-size: 20px;"><i class="fab fa-whatsapp"></i></span>&ThickSpace; Join Our WhatsApp Group!!!</b>
       </div>
   </div>
   <div class="dt_mainmeta">
@@ -143,22 +143,22 @@
           <h2 class="widget-title"><b>Most Popular TV Shows</b></h2>
           </aside>
           <article class="w_item_a"> 
-              <a onclick="ipTopTvShow1()">
+              <a href="https://www.irupc.net/2020/08/warrior-tv-series.html">
                   <div class="image"> 
-                      <img src="http://movieslk.herokuapp.com/Uploads/4.jpg">
-                      <div class="data"><script>document.write(ipTopTvShow1);</script></div>
+                      <img src="/Uploads/4.jpg">
+                      <div class="data"><h3>Warrior</h3><span class="wdate">TV Show</span></div>
                   </div> 
               </a>
           </article>
           <article class="w_item_a"> 
-              <a onclick="ipTopTvShow2()">
+              <a href="https://www.irupc.net/2020/08/game-of-thrones-tv-series.html">
                   <div class="image"> 
-                      <img src="http://movieslk.herokuapp.com/Uploads/5.jpg">
-                      <div class="data"><h3><script>document.write(ipTopTvShow2);</script></h3></div>
+                      <img src="/Uploads/5.jpg">
+                      <div class="data"><h3>Game of Thrones</h3><span class="wdate">TV Show</span></div>
                   </div> 
               </a>
           </article>
-              <b class="irupcFaceBook" onclick="ipfacebook()"><span style="font-size: 20px;"><i class="fab fa-facebook"></i></span>&ThickSpace; Visit Our Face Book Page</b>
+              <b href="https://www.facebook.com/M-and-M-102423974836700" class="irupcFaceBook"><span style="font-size: 20px;"><i class="fab fa-facebook"></i></span>&ThickSpace; Visit Our Face Book Page</b>
   </div>
 </div>
 </div>
