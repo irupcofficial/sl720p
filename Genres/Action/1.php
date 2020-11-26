@@ -551,9 +551,9 @@
                         <div class='resppages'>
                             <a onclick="ipgenrepgs('Action', 2)"><i class="fas fa-forward"></i> Next Page</a>
                         </div>
+                <br><hr><br> 
                 <div id="footer"></div>
                     </div>
-                <br><hr><br> 
                 <div id="nav"></div>
             </div>        
         </div>
