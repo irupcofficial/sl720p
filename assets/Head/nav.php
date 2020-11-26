@@ -10,7 +10,7 @@
   <div class="dt_mainmeta">
       <div class="ipnavsocial">
           <div> 
-              <b href="https://t.me/top_movie_Links" class="irupcTelegram"><span style="font-size: 20px;"><i class="fab fa-telegram-plane"></i></span>&ThickSpace; Join Our Telegram Channel</b>
+              <b><a href="https://t.me/top_movie_Links" class="irupcTelegram"><span style="font-size: 20px;"><i class="fab fa-telegram-plane"></i></span>&ThickSpace; Join Our Telegram Channel</a></b>
           </div>
       </div>
       <div id="ipgenre1">
@@ -98,7 +98,7 @@
   </div>
   <div class="ipnavsocial">
       <div> 
-          <b href="https://chat.whatsapp.com/Id2RBBi0dX9A6P6EiVHASR" class="irupcWhatsApp"><span style="font-size: 20px;"><i class="fab fa-whatsapp"></i></span>&ThickSpace; Join Our WhatsApp Group!!!</b>
+          <b><a href="https://chat.whatsapp.com/Id2RBBi0dX9A6P6EiVHASR" class="irupcWhatsApp"><span style="font-size: 20px;"><i class="fab fa-whatsapp"></i></span>&ThickSpace; Join Our WhatsApp Group!!!</a></b>
       </div>
   </div>
   <div class="dt_mainmeta">
@@ -158,7 +158,7 @@
                   </div> 
               </a>
           </article>
-              <b href="https://www.facebook.com/M-and-M-102423974836700" class="irupcFaceBook"><span style="font-size: 20px;"><i class="fab fa-facebook"></i></span>&ThickSpace; Visit Our Face Book Page</b>
+              <b><a href="https://www.facebook.com/M-and-M-102423974836700" class="irupcFaceBook"><span style="font-size: 20px;"><i class="fab fa-facebook"></i></span>&ThickSpace; Visit Our Face Book Page</a></b>
   </div>
 </div>
 </div>
