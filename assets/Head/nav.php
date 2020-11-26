@@ -18,11 +18,11 @@
               <br><div class="irupctext">Genres</div><br>
               <ul class="genres scrolling">
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Action/1.php" style="cursor: pointer;">Action</a></b><hr>
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Genres/Adventure/1.php" style="cursor: pointer;">Adventure</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Adventure/1.php" style="cursor: pointer;">Adventure</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Romance/1.php" style="cursor: pointer;">Romance</a></b><hr>
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Genres/Crime/1.php" style="cursor: pointer;">Crime</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Crime/1.php" style="cursor: pointer;">Crime</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Comedy/1.php" style="cursor: pointer;">Comedy</a></b><hr>
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Genres/Drama/1.php" style="cursor: pointer;">Drama</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Drama/1.php" style="cursor: pointer;">Drama</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Horror/1.php" style="cursor: pointer;">Horror</a></b><hr>
               </ul>
           </nav>
@@ -32,13 +32,13 @@
           <nav class="genres">
               <br><div class="irupctext">Genres</div><br>
               <ul class="genres scrolling">
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Genres/Family/1.php" style="cursor: pointer;">Family</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Family/1.php" style="cursor: pointer;">Family</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Fantasy/1.php" style="cursor: pointer;">Fantasy</a></b><hr>
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Genres/Animation/1.php" style="cursor: pointer;">Animation</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Animation/1.php" style="cursor: pointer;">Animation</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Documentary/1.php" style="cursor: pointer;">Documentary</a></b><hr>
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Genres/Thriller/1.php" style="cursor: pointer;">Thriller</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Thriller/1.php" style="cursor: pointer;">Thriller</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/Sci/1.php" style="cursor: pointer;">Sci-Fi</a></b><hr>
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Genres/History/1.php" style="cursor: pointer;">History</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Genres/History/1.php" style="cursor: pointer;">History</a></b><hr>
               </ul>
           </nav>
           <P align="right" onclick="ipgenre1()" style="cursor:pointer;"><strong>Go Back</strong></p>
@@ -74,9 +74,9 @@
           <nav class="genres">
               <br><div class="irupctext">Languages</div><br>
               <ul class="genres scrolling">
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Languages/English/1.php" style="cursor: pointer;">English</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Languages/English/1.php" style="cursor: pointer;">English</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Languages/Hindi/1.php" style="cursor: pointer;">Hindi</a></b><hr>
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Languages/Sinhala/1.php" style="cursor: pointer;">Sinhala</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Languages/Sinhala/1.php" style="cursor: pointer;">Sinhala</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Languages/Tamil/1.php" style="cursor: pointer;">Tamil</a></b><hr>
               </ul>
           </nav>
@@ -87,9 +87,9 @@
               <br><div class="irupctext">Languages</div><br>
               <ul class="genres scrolling">
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Languages/Telugu/1.php" style="cursor: pointer;">Telugu</a></b><hr>
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Languages/Malayalam/1.php" style="cursor: pointer;">Malayalam</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Languages/Malayalam/1.php" style="cursor: pointer;">Malayalam</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Languages/Kannada/1.php" style="cursor: pointer;">Kannada</a></b><hr>
-                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b href="/Languages/Korean/1.php" style="cursor: pointer;">Korean</b><hr>
+                  &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Languages/Korean/1.php" style="cursor: pointer;">Korean</a></b><hr>
                   &ThickSpace;&ThickSpace; <i class="far fa-dot-circle">&ThickSpace;&ThickSpace;&ThickSpace;</i><b><a href="/Languages/Other/1.php" style="cursor: pointer;">Other</a></b><hr>
               </ul>
           </nav>
