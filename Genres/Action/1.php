@@ -29,6 +29,7 @@
     <link rel='stylesheet' id='dooplay-responsive-css' href='/assets/css/front_mobile.css' type='text/css' media='all' />
     
         <script type='text/javascript' src='/assets/js/jquery.js' id='jquery-core-js'></script>
+        <script type='text/javascript' src='/assets/js/url.js'></script>
         <script type='text/javascript' src='/assets/js/owlcarousel.js' id='owl-carousel-js'></script>
         <script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-177017662-1' id='google_gtagjs-js'></script>
     
