@@ -553,6 +553,7 @@
                         </div>
                 <div id="footer"></div>
                     </div>
+                <br><hr><br> 
                 <div id="nav"></div>
             </div>        
         </div>
