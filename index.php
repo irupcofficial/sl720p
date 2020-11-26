@@ -1385,9 +1385,9 @@
                         </span>
                         <div class="fmenu">
                             <ul id="menu-footer" class="menu">
-                                <li><a onclick="ipMovieCollections()">Movie Collections</a></li>
-                                <li><a onclick="irupccontact()">Contact Us</a></li>
-                                <li><a onclick="irupcrequest()">Request Movies</a></li>
+                                <li><a href="https://movieslk.herokuapp.com/Collections/index.php">Movie Collections</a></li>
+                                <li><a href="https://www.irupc.net/p/contact-us.html">Contact Us</a></li>
+                                <li><a href="https://forms.gle/w1mu2FCgwzsZyJ8m7">Request Movies</a></li>
                             </ul>
                         </div>
                     </div>
