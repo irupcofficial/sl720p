@@ -35,6 +35,6 @@ function togglePopupaa(noEpisode, url1, url2){ document.getElementById("popup-1"
         jQuery(function(){
         jQuery('.ipdbtn').click(function(){
             jQuery('.target').hide();
-            jQuery('#irupcS0'+$(this).attr('target')).show();
+            jQuery('#irupcS'+$(this).attr('target')).show();
         });
     });
