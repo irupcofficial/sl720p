@@ -719,7 +719,7 @@
 
                     <header>
                         <h2>TV Shows</h2>
-                        <span>51 <a href="https://www.movieblazt.com/seasons/" class="see-all">See all</a></span>
+                        <span>51 <a href="/TV_Shows/1.php" class="see-all">See all</a></span>
                     </header>
                     <div id="seaload" class="load_modules">Loading..</div>
                     <div id="dt-seasons" class="animation-2 items">
@@ -1053,7 +1053,7 @@
             <!--===========Row Number 4 End===========-->     
                     <header> 
                         <h2>Movies Collections</h2> 
-                        <span><a href="https://www.movieblazt.com/episodes/" class="see-all">See all</a></span>
+                        <span><a href="/Collections/index.php" class="see-all">See all</a></span>
                     </header>
                     <div id="epiload" class="load_modules">Loading..</div>
                     <div id="dt-episodes" class="animation-2 items"> 
