@@ -545,14 +545,14 @@
                             <span>Page <script>document.write(pgnumber);</script> of <script>document.write(totalActionpgs);</script></span>
                             <a onclick="ipgenrepgs('Action', 1)" class="inactive"><script>document.write(pgnumber-1);</script></a>
                             <span class="current"><script>document.write(pgnumber);</script></span>
-                            <a onclick="ipgenrepgs('Action', 2)" class="inactive"><script>document.write(pgnumber+1);</script></a>
-                            <a onclick="ipgenrepgs('Action', 3)" class="inactive"><script>document.write(pgnumber+2);</script></a>
-                            <a onclick="ipgenrepgs('Action', 4)" class="inactive"><script>document.write(pgnumber+3);</script></a>
-                            <a onclick="ipgenrepgs('Action', 5)" class="inactive"><script>document.write(pgnumber+4);</script></a>
+                            <a onclick="ipgenrepgs('Action', 3)" class="inactive"><script>document.write(pgnumber+1);</script></a>
+                            <a onclick="ipgenrepgs('Action', 4)" class="inactive"><script>document.write(pgnumber+2);</script></a>
+                            <a onclick="ipgenrepgs('Action', 5)" class="inactive"><script>document.write(pgnumber+3);</script></a>
+                            <a onclick="ipgenrepgs('Action', 6)" class="inactive"><script>document.write(pgnumber+4);</script></a>
                         </div>
                         <div class='resppages'>
                             <a onclick="ipgenrepgs('Action', 1)"><i class="fas fa-backward"></i> Back Page</a>
-                            <a onclick="ipgenrepgs('Action', 2)"><i class="fas fa-forward"></i> Next Page</a>
+                            <a onclick="ipgenrepgs('Action', 3)"><i class="fas fa-forward"></i> Next Page</a>
                         </div>
                 <div id="footer"></div>
                     </div>
