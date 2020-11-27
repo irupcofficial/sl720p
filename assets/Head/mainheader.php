@@ -1,3 +1,4 @@
+<script src="/assets/js/url.js"></script>
 <header id="header" class="main">
     <div class="hbox">
         <div class="logo"><a href="https://www.irupc.net"><h1 class='text'>IruPC.net</h1></a></div>
