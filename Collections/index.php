@@ -90,6 +90,22 @@
                         <h1>Movies Collections</h1><span><script>document.write(noOfTVShows);</script></span>
                     </header>
                         <div id="archive-content" class="animation-2 items">
+                        <article class="item se episodes" id="post-1284">
+                            <div class="poster">
+                                <img src="https://1.bp.blogspot.com/-6rlZQEG5Nf4/WxvAwn8QHKI/AAAAAAAAA5A/GXgan9U0adQ0-GHJNeHmpBSwMSaeEMk8ACLcBGAs/s1600/sp2.jpg">
+                                <div class="season_m animation-1">
+                                    <a href="https://movieslk.herokuapp.com/Collections/SaiPallavi.php">
+                                        <span class="b">9</span>
+                                        <span class="a">Movies</span>
+                                        <span class="c">Available !!!</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="data">
+                                <h3><a href="https://movieslk.herokuapp.com/Collections/SaiPallavi.php">Sai Pallavi</a></h3>
+                                <span><d onclick="irupclang('Tamil')" style="cursor: pointer;">Tamil</d> | <d onclick="irupclang('Telugu')" style="cursor: pointer;">Telugu</d> | <d onclick="irupclang('Malayalam')" style="cursor: pointer;">Malayalam</d></span> 
+                            </div>
+                        </article>
                         <article class="item se episodes" id="post-1296">
                             <div class="poster">
                                 <img src="https://image.tmdb.org/t/p/w533_and_h300_bestv2/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg">
