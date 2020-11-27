@@ -228,7 +228,7 @@
                             </article>
                             <article class="item se seasons">
                                 <div class="poster">
-                                    <img src="https://1.bp.blogspot.com/--OUTS15-fxI/X36004kafuI/AAAAAAAABGk/6UP85QXzBwkRCvxm0GZooVbnqjKL77eRgCLcBGAsYHQ/s320/1.jpg">
+                                    <img src="https://1.bp.blogspot.com/-Xf3mjkYOxzM/X50UiuJZ9SI/AAAAAAAACAI/EOzGfjDWLmcS_DToXfd_G2zUBFaiUTisACLcBGAsYHQ/s320/irupc.jpg">
                                     <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2015</div>
                                     <div class="featu">Malayalam</div>
                                     <div class="season_m animation-1">
