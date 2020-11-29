@@ -1,4 +1,4 @@
-lastRes = "720p"; lastSize = "400MB"; lastRip = "Web-DL"; lastMsg1 = "Warning! This is x265 (HEVC) Codec"; lastMsg2 = "Some <b>Televisions</b> may not be able to play this video";
+lastRes = "720p"; lastSize = "150MB"; lastRip = "Bluray"; lastMsg1 = "Warning! This is x265 (HEVC) Codec"; lastMsg2 = "Some <b>Televisions</b> may not be able to play this video";
 s01Res = "720p"; s01Size = "~150MB"; s01Rip = "Bluray"; s01Msg1 = "Warning! This is x265 (HEVC) Codec"; s01Msg2 = "Some <b>Televisions</b> may not be able to play this video";
 s02Res = "720p"; s02Size = "~150MB"; s02Rip = "Bluray"; s02Msg1 = "Warning! This is x265 (HEVC) Codec"; s02Msg2 = "Some <b>Televisions</b> may not be able to play this video";
 s03Res = "720p"; s03Size = "~150MB"; s03Rip = "Bluray"; s03Msg1 = "Warning! This is x265 (HEVC) Codec"; s03Msg2 = "Some <b>Televisions</b> may not be able to play this video";
