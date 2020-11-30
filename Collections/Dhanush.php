@@ -87,7 +87,7 @@
             <div class="module">
                 <div class="content right">
                 <header class="archive_post">
-                        <h1>Dhanush Collection</h1><span>9</span>
+                        <h1>Dhanush Movie Collection</h1><span>35</span>
                     </header>
                         <div id="archive-content" class="animation-2 items">
                         <article class="item se seasons">
