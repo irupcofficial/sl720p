@@ -229,7 +229,18 @@
             <div class="module">
                 <div class="content right">
                     <div id="slider-movies-tvshows" class="animation-1 slider">
-                    <!--============Aarticle 1.1============-->    
+                    <!--============Aarticle 1.1============-->  
+                        <article class="item" id="post-1421">
+                            <div class="image">
+                                <a href="/Collections/Dhanush.php">
+                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/qd1SEmwCVT1xd0WHrHSNA64sfw2.jpg"/>
+                                </a>
+                                <a href="/Collections/Dhanush.php">
+                                    <div class="data"><h3 class="title">Dhanush</h3><span>Collection</span></div>
+                                </a>
+                                <span class="item_type">Featured</span>
+                            </div>
+                        </article> 
                         <article class="item" id="post-1905">
                             <div class="image">
                                 <a href="https://movieslk.herokuapp.com/Collections/SaiPallavi.php">
@@ -265,18 +276,6 @@
                                 <span class="item_type">Featured</span>
                             </div>
                         </article>
-                    <!--============Aarticle 1.4============-->    
-                        <article class="item" id="post-1421">
-                            <div class="image">
-                                <a href="https://www.irupc.net/2020/10/krrish-3-2013.html">
-                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/4cy5EOTl6bP1WCMTHyT96ZFBUDZ.jpg"/>
-                                </a>
-                                <a href="https://www.irupc.net/2020/10/krrish-3-2013.html">
-                                    <div class="data"><h3 class="title">Krrish 3</h3><span>2013</span></div>
-                                </a>
-                                <span class="item_type">Featured</span>
-                            </div>
-                        </article> 
                     <!--============Aarticle 1.5============-->    
                         <article class="item" id="post-1397">
                             <div class="image">
@@ -1058,7 +1057,23 @@
                     <div id="epiload" class="load_modules">Loading..</div>
                     <div id="dt-episodes" class="animation-2 items"> 
                 <!--===========Row Number 6===========-->
-                    <!--============Aarticle 6.1============-->         
+                    <!--============Aarticle 6.1============--> 
+                        <article class="item se episodes" id="post-1296">
+                            <div class="poster">
+                                <img src="https://image.tmdb.org/t/p/w500_and_h282_face/qd1SEmwCVT1xd0WHrHSNA64sfw2.jpg">
+                                <div class="season_m animation-1">
+                                    <a href="/Collections/Dhanush.php">
+                                        <span class="b">36</span>
+                                        <span class="a">Movies</span>
+                                        <span class="c">Available !!!</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="data">
+                                <h3><a href="/Collections/Dhanush.php">Sai Pallavi</a></h3>
+                                <span><d onclick="irupclang('Tamil')" style="cursor: pointer;">Tamil</d></span> 
+                            </div>
+                        </article>
                         <article class="item se episodes" id="post-1296">
                             <div class="poster">
                                 <img src="https://1.bp.blogspot.com/-6rlZQEG5Nf4/WxvAwn8QHKI/AAAAAAAAA5A/GXgan9U0adQ0-GHJNeHmpBSwMSaeEMk8ACLcBGAs/s1600/sp2.jpg">
