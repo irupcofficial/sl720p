@@ -90,6 +90,22 @@
                         <h1>Movies Collections</h1><span><script>document.write(noOfTVShows);</script></span>
                     </header>
                         <div id="archive-content" class="animation-2 items">
+                        <article class="item se episodes" id="post-1294">
+                            <div class="poster">
+                                <img src="https://image.tmdb.org/t/p/w500_and_h282_face/qd1SEmwCVT1xd0WHrHSNA64sfw2.jpg">
+                                <div class="season_m animation-1">
+                                    <a href="/Collections/Dhanush.php">
+                                        <span class="b">36</span>
+                                        <span class="a">Movies</span>
+                                        <span class="c">Available !!!</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="data">
+                                <h3><a href="/Collections/Dhanush.php">Dhanush</a></h3>
+                                <span><d onclick="irupclang('Tamil')" style="cursor: pointer;">Tamil</d></span> 
+                            </div>
+                        </article>
                         <article class="item se episodes" id="post-1284">
                             <div class="poster">
                                 <img src="https://1.bp.blogspot.com/-6rlZQEG5Nf4/WxvAwn8QHKI/AAAAAAAAA5A/GXgan9U0adQ0-GHJNeHmpBSwMSaeEMk8ACLcBGAs/s1600/sp2.jpg">
