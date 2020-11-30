@@ -1,0 +1,7 @@
+lastRes = "720p"; lastSize = "270MB"; lastRip = "WebRip"; lastMsg1 = "Warning! This is x265 (HEVC) Codec"; lastMsg2 = "Some <b>Televisions</b> may not be able to play this video";
+s01Res = "720p"; s01Size = "~300MB"; s01Rip = "WebRip"; s01Msg1 = "Warning! This is x265 (HEVC) Codec"; s01Msg2 = "Some <b>Televisions</b> may not be able to play this video";
+
+//Season 1 URL
+s01e01x = "https://irupc-net.herokuapp.com/154829690018908/@BREWFILES%20Lovecraft%20Country%20S01E01.mkv"; s01e02x = "https://irupc-net.herokuapp.com/154846869888092/@BREWFILES%20Lovecraft%20Country%20S01E02.mkv"; s01e03x = "https://irupc-net.herokuapp.com/154864049757276/@BREWFILES%20Lovecraft%20Country%20S01E03.mkv"; s01e04x = "https://irupc-net.herokuapp.com/154881229626460/@BREWFILES%20Lovecraft%20Country%20S01E04.mkv"; s01e05x = "https://irupc-net.herokuapp.com/154898409495644/@BREWFILES%20Lovecraft%20Country%20S01E05.mkv"; s01e06x = "https://irupc-net.herokuapp.com/154915589364828/@BREWFILES%20Lovecraft%20Country%20S01E06.mkv"; s01e07x = "https://irupc-net.herokuapp.com/154932769234012/@BREWFILES%20Lovecraft%20Country%20S01E07.mkv"; s01e08x = "https://irupc-net.herokuapp.com/154949949103196/@BREWFILES%20Lovecraft%20Country%20S01E08.mkv"; s01e09x = "https://irupc-net.herokuapp.com/154967128972380/@BREWFILES%20Lovecraft%20Country%20S01E09.mkv";
+//@@01z@@
+s01e01y = "@@01y@@"; s01e02y = "@@01y@@"; s01e03y = "@@01y@@"; s01e04y = "@@01y@@"; s01e05y = "@@01y@@"; s01e06y = "@@01y@@"; s01e07y = "@@01y@@"; s01e08y = "@@01y@@"; s01e09y = "@@01y@@";
