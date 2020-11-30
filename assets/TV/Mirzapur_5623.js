@@ -1,4 +1,4 @@
-lastRes = "720p"; lastSize = "400MB"; lastRip = "Web-DL"; lastMsg1 = "x264 Codec File"; lastMsg2 = "---";
+lastRes = "720p"; lastSize = "400MB"; lastRip = "HDRip"; lastMsg1 = "x264 Codec File"; lastMsg2 = "---";
 s01Res = "480p"; s01Size = "~200MB"; s01Rip = "WebRip"; s01Msg1 = "x264 Codec File"; s01Msg2 = "---";
 s02Res = "720p"; s02Size = "~400MB"; s02Rip = "WebRip"; s02Msg1 = "x264 Codec File"; s02Msg2 = "---";
 s03Res = "720p"; s03Size = "~400MB"; s03Rip = "HDRip"; s03Msg1 = "x264 Codec File"; s03Msg2 = "---";
