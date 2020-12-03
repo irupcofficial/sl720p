@@ -1,5 +1,5 @@
-lastRes = "480p"; lastSize = "400MB"; lastRip = "Web-DL"; lastMsg1 = "Warning! This is x265 (HEVC) Codec"; lastMsg2 = "Some <b>Televisions</b> may not be able to play this video";
-s01Res = "480p"; s01Size = "~300MB"; s01Rip = "WebRip"; s01Msg1 = "Warning! This is x265 (HEVC) Codec"; s01Msg2 = "Some <b>Televisions</b> may not be able to play this video";
+lastRes = "480p"; lastSize = "400MB"; lastRip = "---"; lastMsg1 = "x264 Codec File"; lastMsg2 = "---";
+s01Res = "480p"; s01Size = "~400MB"; s01Rip = "---"; s01Msg1 = "x264 Codec File"; s01Msg2 = "---";
 
 //Season 1 URL
 s01e01x = "https://download.irupc.xyz/0:/TV.Shows/American.Genius/www.irupc.net__American.Genius.Colt.Vs.Wesson-1.m4v"; 
