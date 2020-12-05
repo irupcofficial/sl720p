@@ -1419,6 +1419,7 @@
                                 <li><a href="https://movieslk.herokuapp.com/Collections/index.php">Movie Collections</a></li>
                                 <li><a href="https://www.irupc.net/p/contact-us.html">Contact Us</a></li>
                                 <li><a href="https://forms.gle/w1mu2FCgwzsZyJ8m7">Request Movies</a></li>
+                                <li><a href="https://www.irupc.net/p/privacy-policy.html">Privacy Policy</a></li>
                             </ul>
                         </div>
                     </div>
