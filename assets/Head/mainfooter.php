@@ -10,6 +10,7 @@
                     <li><a href="/Collections/index.php">Movie Collections</a></li>
                     <li><a href="/assets/php/ContactUs.php">Contact US</a></li>
                     <li><a href="/assets/php/RequestMovies.php">Request Movies</a></li>
+                    <li><a href="https://www.irupc.net/p/privacy-policy.html">Privacy Policy</a></li>
                 </ul>
             </div>
         </div>
