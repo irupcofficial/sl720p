@@ -24,7 +24,8 @@ s03e01y = "@@03y@@"; s03e02y = "@@03y@@"; s03e03y = "@@03y@@"; s03e04y = "@@03y@
 s04e01x = "https://download.irupc.xyz/0:/TV.Shows/Seal.Team/S04/www.irupc.net__SEAL.Team.S04E01-E02.720p.HDTV.x265.mkv"; s04e03x = "https://download.irupc.xyz/0:/TV.Shows/Seal.Team/S04/www.irupc.net__SEAL.Team.S04E03.720p.HDTV.x265.mkv";
 //s04e02x = "@@04x@@"; s04e04x = "@@04x@@"; s04e05x = "@@04x@@"; s04e06x = "@@04x@@"; s04e07x = "@@04x@@"; s04e08x = "@@04x@@"; s04e09x = "@@04x@@"; s04e10x = "@@04x@@"; s04e11x = "@@04x@@"; s04e12x = "@@04x@@"; s04e13x = "@@04x@@"; s04e14x = "@@04x@@"; s04e15x = "@@04x@@"; s04e16x = "@@04x@@"; s04e17x = "@@04x@@"; s04e18x = "@@04x@@"; s04e19x = "@@04x@@"; s04e20x = "@@04x@@"; s04e21x = "@@04x@@"; s04e22x = "@@04x@@"; s04e23x = "@@04x@@";
 //@@04z@@  
-s04e01y = "@@04y@@"; 
-//s04e02y = "@@04y@@"; s04e03y = "@@04y@@"; s04e04y = "@@04y@@"; s04e05y = "@@04y@@"; s04e06y = "@@04y@@"; s04e07y = "@@04y@@"; s04e08y = "@@04y@@"; s04e09y = "@@04y@@"; s04e10y = "@@04y@@"; s04e11y = "@@04y@@"; s04e12y = "@@04y@@"; s04e13y = "@@04y@@"; s04e14y = "@@04y@@"; s04e15y = "@@04y@@"; s04e16y = "@@04y@@"; s04e17y = "@@04y@@"; s04e18y = "@@04y@@"; s04e19y = "@@04y@@"; s04e20y = "@@04y@@"; s04e21y = "@@04y@@"; s04e22y = "@@04y@@"; s04e23y = "@@04y@@"; 
+s04e01y = "@@04y@@"; s04e03y = "@@04y@@";
+//s04e02y = "@@04y@@"; s04e04y = "@@04y@@"; s04e05y = "@@04y@@"; s04e06y = "@@04y@@"; s04e07y = "@@04y@@"; s04e08y = "@@04y@@"; s04e09y = "@@04y@@"; s04e10y = "@@04y@@"; s04e11y = "@@04y@@"; s04e12y = "@@04y@@"; s04e13y = "@@04y@@"; s04e14y = "@@04y@@"; s04e15y = "@@04y@@"; s04e16y = "@@04y@@"; s04e17y = "@@04y@@"; s04e18y = "@@04y@@"; s04e19y = "@@04y@@"; s04e20y = "@@04y@@"; s04e21y = "@@04y@@"; s04e22y = "@@04y@@"; s04e23y = "@@04y@@"; 
 
 s08e03x = "https://download.irupc.xyz/0:/TV.Shows/Seal.Team/S04/www.irupc.net__SEAL.Team.S04E03.720p.WEBRip.2CH.x265.HEVC.mkv";
+s08e03y = "@@08y@@";
