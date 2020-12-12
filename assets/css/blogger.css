@@ -114,13 +114,17 @@ button:hover{background: #128C7E;box-shadow: 0 0 10px #128C7E, 0 0 40px #128C7E,
   .grid-container { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; grid-gap: 10px;}
 
 /*Quality Images*/
-  .qualityIs720p, .qualityIs1080p, .codecIsx264, .codecIsx265{ width: 90px; height: 60px; background-size: contain; background-repeat: no-repeat; background-position: center;}
+  .qualityIs720p, .qualityIs1080p, .codecIsx264, .codecIsx265, .ripIsBR, .ripIsHD, .ripIsWeb, .ripIsDVD{ width: 90px; height: 60px; background-size: contain; background-repeat: no-repeat; background-position: center;}
 
 /*Quality Icons*/
   .qualityIs720p{background-image: url(https://movieslk.herokuapp.com/assets/imgs/720p2.png);}
   .qualityIs1080p{background-image: url(https://movieslk.herokuapp.com/assets/imgs/1080p.png);}
   .codecIsx264{background-image: url(https://movieslk.herokuapp.com/assets/imgs/x264.png);}
   .codecIsx265{background-image: url(https://movieslk.herokuapp.com/assets/imgs/HEVC.png);}
+  .ripIsBR{background-image: url(https://movieslk.herokuapp.com/assets/imgs/BR.png);}
+  .ripIsHD{background-image: url(https://movieslk.herokuapp.com/assets/imgs/HD.png);}
+  .ripIsWeb{background-image: url(https://movieslk.herokuapp.com/assets/imgs/Web.png);}
+  .ripIsDVD{background-image: url(https://movieslk.herokuapp.com/assets/imgs/DVD.png);}
 
 /*Season Button Styles*/
   .ipdbtn{ width: 40%; height: auto; background-color: #0088cc; color: black; border: none; text-align: center; text-decoration: none; display: inline-block; margin: 4px 2px; padding: 4px; font-weight: bolder; font-size: medium; cursor: pointer;}
