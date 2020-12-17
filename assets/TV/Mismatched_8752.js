@@ -1,0 +1,7 @@
+lastRes = "720p"; lastSize = "428MB"; lastRip = "BluRay"; lastMsg1 = "x264 Codec File"; lastMsg2 = "---";
+s01Res = "720p"; s01Size = "~400MB"; s01Rip = "BluRay"; s01Msg1 = "x264 Codec File"; s01Msg2 = "---";
+
+//Season 1 URL
+s01e01x = "https://download.irupc.xyz/0:/TV.Shows/Mismatched/www.irupc.net__Mismatched.2020.720p.HDRip.S01.E01.@b.mkv"; s01e02x = "https://download.irupc.xyz/0:/TV.Shows/Mismatched/www.irupc.net__Mismatched.2020.720p.HDRip.S01.E02.@b.mkv"; s01e03x = "https://download.irupc.xyz/0:/TV.Shows/Mismatched/www.irupc.net__Mismatched.2020.720p.HDRip.S01.E03.@n.mkv"; s01e04x = "https://download.irupc.xyz/0:/TV.Shows/Mismatched/www.irupc.net__Mismatched.2020.720p.HDRip.S01.E04.@c.mkv"; s01e05x = "https://download.irupc.xyz/0:/TV.Shows/Mismatched/www.irupc.net__Mismatched.2020.720p.HDRip.S01.E05.@w.mkv"; s01e06x = "https://download.irupc.xyz/0:/TV.Shows/Mismatched/www.irupc.net__Mismatched.2020.720p.HDRip.S01.E06.@z.mkv";
+//
+s01e01y = "https://dl.irupc.xyz/275964947635292/Mismatched.2020.720p.HDRip.S01.E01.@GlobalTube.mkv"; s01e02y = "https://dl.irupc.xyz/275982127504476/Mismatched.2020.720p.HDRip.S01.E02.@GlobalTube.mkv"; s01e03y = "https://dl.irupc.xyz/275999307373660/Mismatched.2020.720p.HDRip.S01.E03.@GlobalTube.mkv"; s01e04y = "https://dl.irupc.xyz/276016487242844/Mismatched.2020.720p.HDRip.S01.E04.@GlobalTube.mkv"; s01e05y = "https://dl.irupc.xyz/276033667112028/Mismatched.2020.720p.HDRip.S01.E05.@GlobalTube.mkv"; s01e06y = "https://dl.irupc.xyz/276050846981212/Mismatched.2020.720p.HDRip.S01.E06.@GlobalTube.mkv";
