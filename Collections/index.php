@@ -89,6 +89,38 @@
                 <header class="archive_post">
                         <h1>Movies Collections</h1><span><script>document.write(noOfTVShows);</script></span>
                     </header>
+                        <article class="item se episodes" id="post-1284">
+                            <div class="poster">
+                                <img src="https://1.bp.blogspot.com/-ldTgQW6BKSo/X9zupk9t7ZI/AAAAAAAAGgE/KyVZVZnC1p4PzaKBpbZ6l9IRTD3ME1NXQCLcBGAsYHQ/s320/Sahara.jpg">
+                                <div class="season_m animation-1">
+                                    <a href="https://movieslk.herokuapp.com/Collections/Allu_Arjun.php">
+                                        <span class="b">19</span>
+                                        <span class="a">Movies</span>
+                                        <span class="c">Available !!!</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="data">
+                                <h3><a href="https://movieslk.herokuapp.com/Collections/Allu_Arjun.php">Allu Arjun</a></h3>
+                                <span><d onclick="irupclang('Telugu')" style="cursor: pointer;">Telugu</d></span> 
+                            </div>
+                        </article>
+                        <article class="item se episodes" id="post-1284">
+                            <div class="poster">
+                                <img src="https://1.bp.blogspot.com/-6Og2ZwTL3q0/X9ztyekIEVI/AAAAAAAAGf4/D11LZUVal9sjKoMabBb74RzhKfaye6JTQCLcBGAsYHQ/s320/sinha%2Braja.jpg">
+                                <div class="season_m animation-1">
+                                    <a href="https://movieslk.herokuapp.com/Collections/Ram_Charan.php">
+                                        <span class="b">12</span>
+                                        <span class="a">Movies</span>
+                                        <span class="c">Available !!!</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="data">
+                                <h3><a href="https://movieslk.herokuapp.com/Collections/Ram_Charan.php">Ram Charan</a></h3>
+                                <span><d onclick="irupclang('Telugu')" style="cursor: pointer;">Telugu</d></span> 
+                            </div>
+                        </article>
                         <div id="archive-content" class="animation-2 items">
                         <article class="item se episodes" id="post-1294">
                             <div class="poster">
