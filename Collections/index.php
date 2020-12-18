@@ -89,6 +89,7 @@
                 <header class="archive_post">
                         <h1>Movies Collections</h1><span><script>document.write(noOfTVShows);</script></span>
                     </header>
+                        <div id="archive-content" class="animation-2 items">
                         <article class="item se episodes" id="post-1284">
                             <div class="poster">
                                 <img src="https://1.bp.blogspot.com/-ldTgQW6BKSo/X9zupk9t7ZI/AAAAAAAAGgE/KyVZVZnC1p4PzaKBpbZ6l9IRTD3ME1NXQCLcBGAsYHQ/s320/Sahara.jpg">
@@ -121,7 +122,6 @@
                                 <span><d onclick="irupclang('Telugu')" style="cursor: pointer;">Telugu</d></span> 
                             </div>
                         </article>
-                        <div id="archive-content" class="animation-2 items">
                         <article class="item se episodes" id="post-1294">
                             <div class="poster">
                                 <img src="https://image.tmdb.org/t/p/w500_and_h282_face/qd1SEmwCVT1xd0WHrHSNA64sfw2.jpg">
