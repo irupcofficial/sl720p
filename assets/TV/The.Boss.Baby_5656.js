@@ -3,7 +3,8 @@ s01Res = "720p"; s01Size = "~110MB"; s01Rip = "WebRip"; s01Msg1 = "Warning! This
 s02Res = "720p"; s02Size = "~110MB"; s02Rip = "Web-DL"; s02Msg1 = "Warning! This is x265 (HEVC) Codec"; s02Msg2 = "Some <b>Televisions</b> may not be able to play this video";
 s03Res = "720p"; s03Size = "~150MB"; s03Rip = "WebRip"; s03Msg1 = "x264 Codec File"; s03Msg2 = "---";
 s04Res = "720p"; s04Size = "~150MB"; s04Rip = "WebRip"; s04Msg1 = "x264 Codec File"; s04Msg2 = "---";
-s08Res = "480p"; s08Size = "~87MB"; s08Rip = "WebRip"; s08Msg1 = "x264 Codec File"; s08Msg2 = "---";
+s10Res = "480p"; s10Size = "~87MB"; s10Rip = "WebRip"; s10Msg1 = "x264 Codec File"; s10Msg2 = "---";
+s11Res = "480p"; s11Size = "~87MB"; s11Rip = "WebRip"; s11Msg1 = "x264 Codec File"; s11Msg2 = "---";
 
 //Season 1 URL
 s01e01x = "https://dl.irupc.xyz/278456028666972/@CC.S01E01.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv"; s01e02x = "https://dl.irupc.xyz/278473208536156/@CC.S01E02.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv"; s01e03x = "https://dl.irupc.xyz/278490388405340/@CC.S01E03.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv"; s01e04x = "https://dl.irupc.xyz/278507568274524/@CC.S01E04.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv"; s01e05x = "https://dl.irupc.xyz/278524748143708/@CC.S01E05.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv"; s01e06x = "https://dl.irupc.xyz/278541928012892/@CC.S01E06.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv"; s01e07x = "https://dl.irupc.xyz/278559107882076/@CC.S01E07.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv"; s01e08x = "https://dl.irupc.xyz/278576287751260/@CC.S01E08.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv"; s01e09x = "https://dl.irupc.xyz/278593467620444/@CC.S01E09.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv"; s01e10x = "https://dl.irupc.xyz/278610647489628/@CC.S01E10.The.Boss.Baby.Back.In.Business.2018.720p%20x265.mkv";
