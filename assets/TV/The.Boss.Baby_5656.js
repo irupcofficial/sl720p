@@ -33,5 +33,16 @@ s04e11x = "https://dl.irupc.xyz/279899137678428/The_Boss_Baby_Back_in_Business_S
 s04e01y = "@@y04@@"; s04e02y = "@@y04@@"; s04e03y = "@@y04@@"; s04e04y = "@@y04@@"; s04e05y = "@@y04@@"; s04e06y = "@@y04@@"; s04e07y = "@@y04@@"; s04e08y = "@@y04@@"; s04e09y = "@@y04@@"; s04e10y = "@@y04@@";
 s04e11y = "@@y04@@"; s04e12y = "@@y04@@";
 
-s08e13x = "https://dl.irupc.xyz/280139655847004/The.B0ss.Bby.Back.in.Businss.S02E13.48Op.x264.HarmonyDL.mkv";
-s08e13y = "@@y08@@";
+//Season 10 URL
+s10e01x = "https://dl.irupc.xyz/280483253230684/The.Boss.Baby.S01E01.480p.Film2Movie_CO.mkv"; s10e02x = "https://dl.irupc.xyz/280500433099868/The.Boss.Baby.S01E02.480p.Film2Movie_CO.mkv"; s10e03x = "https://dl.irupc.xyz/280517612969052/The.Boss.Baby.S01E03.480p.Film2Movie_CO.mkv"; s10e04x = "https://dl.irupc.xyz/280534792838236/The.Boss.Baby.S01E04.480p.Film2Movie_CO.mkv"; s10e05x = "https://dl.irupc.xyz/280551972707420/The.Boss.Baby.S01E05.480p.Film2Movie_CO.mkv"; s10e06x = "https://dl.irupc.xyz/280569152576604/The.Boss.Baby.S01E06.480p.Film2Movie_CO.mkv"; s10e07x = "https://dl.irupc.xyz/280586332445788/The.Boss.Baby.S01E07.480p.Film2Movie_CO.mkv"; s10e08x = "https://dl.irupc.xyz/280603512314972/The.Boss.Baby.S01E08.480p.Film2Movie_CO.mkv"; s10e09x = "https://dl.irupc.xyz/280620692184156/The.Boss.Baby.S01E09.480p.Film2Movie_CO.mkv"; s10e10x = "https://dl.irupc.xyz/280637872053340/The.Boss.Baby.S01E10.480p.Film2Movie_CO.mkv";
+s10e11x = "https://dl.irupc.xyz/280655051922524/The.Boss.Baby.S01E11.480p.Film2Movie_CO.mkv"; s10e12x = "https://dl.irupc.xyz/280672231791708/The.Boss.Baby.S01E12.480p.Film2Movie_CO.mkv"; s10e13x = "https://dl.irupc.xyz/280689411660892/The.Boss.Baby.S01E13.480p.Film2Movie_CO.mkv";
+//
+s10e01y = "@@y10@@"; s10e02y = "@@y10@@"; s10e03y = "@@y10@@"; s10e04y = "@@y10@@"; s10e05y = "@@y10@@"; s10e06y = "@@y10@@"; s10e07y = "@@y10@@"; s10e08y = "@@y10@@"; s10e09y = "@@y10@@"; s10e10y = "@@y10@@";
+s10e11y = "@@y10@@"; s10e12y = "@@y10@@"; s10e13y = "@@y10@@";
+
+//Season 11 URL
+s11e01x = "https://dl.irupc.xyz/280964289567836/The.B0ss.Bby.Back.in.Businss.S02E01.48Op.x264.HarmonyDL.mkv"; s11e02x = "https://dl.irupc.xyz/280981469437020/The.B0ss.Bby.Back.in.Businss.S02E02.48Op.x264.HarmonyDL.mkv"; s11e03x = "https://dl.irupc.xyz/280998649306204/The.B0ss.Bby.Back.in.Businss.S02E03.48Op.x264.HarmonyDL.mkv"; s11e04x = "https://dl.irupc.xyz/281033009044572/The.B0ss.Bby.Back.in.Businss.S02E04.48Op.x264.HarmonyDL.mkv"; s11e05x = "https://dl.irupc.xyz/281050188913756/The.B0ss.Bby.Back.in.Businss.S02E05.48Op.x264.HarmonyDL.mkv"; s11e06x = "https://dl.irupc.xyz/281067368782940/The.B0ss.Bby.Back.in.Businss.S02E06.48Op.x264.HarmonyDL.mkv"; s11e07x = "https://dl.irupc.xyz/281084548652124/The.B0ss.Bby.Back.in.Businss.S02E07.48Op.x264.HarmonyDL.mkv"; s11e08x = "https://dl.irupc.xyz/281101728521308/The.B0ss.Bby.Back.in.Businss.S02E08.48Op.x264.HarmonyDL.mkv"; s11e09x = "https://dl.irupc.xyz/281118908390492/The.B0ss.Bby.Back.in.Businss.S02E09.48Op.x264.HarmonyDL.mkv"; s11e10x = "https://dl.irupc.xyz/281136088259676/The.B0ss.Bby.Back.in.Businss.S02E10.48Op.x264.HarmonyDL.mkv";
+s11e11x = "https://dl.irupc.xyz/281153268128860/The.B0ss.Bby.Back.in.Businss.S02E11.48Op.x264.HarmonyDL.mkv"; s11e12x = "https://dl.irupc.xyz/281015829175388/The.B0ss.Bby.Back.in.Businss.S02E12.48Op.x264.HarmonyDL.mkv"; s11e13x = "https://dl.irupc.xyz/281170447998044/The.B0ss.Bby.Back.in.Businss.S02E13.48Op.x264.HarmonyDL.mkv";
+//
+s11e01y = "@@y11@@"; s11e02y = "@@y11@@"; s11e03y = "@@y11@@"; s11e04y = "@@y11@@"; s11e05y = "@@y11@@"; s11e06y = "@@y11@@"; s11e07y = "@@y11@@"; s11e08y = "@@y11@@"; s11e09y = "@@y11@@"; s11e10y = "@@y11@@";
+s11e11y = "@@y11@@"; s11e12y = "@@y11@@"; s11e13y = "@@y11@@";
