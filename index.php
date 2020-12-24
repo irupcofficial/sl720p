@@ -66,6 +66,7 @@
     <!--@@@test-->
 </head>
     <body data-rsssl=1 class="home blog elementor-default">
+        <div class='snow'/>
         <div id="dt_contenedor">
             <header id="header" class="main">
                 <div class="hbox">
