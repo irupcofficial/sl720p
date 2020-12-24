@@ -32,4 +32,5 @@
       </ul>
   </div>
   <div class="items_glossary"></div>
+  <div class='snow'></div>
 </div>
