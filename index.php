@@ -66,7 +66,6 @@
     <!--@@@test-->
 </head>
     <body data-rsssl=1 class="home blog elementor-default">
-        <div class='snow'/>
         <div id="dt_contenedor">
             <header id="header" class="main">
                 <div class="hbox">
@@ -1435,5 +1434,6 @@
 <script type='text/javascript' src='/assets/js/front_scripts.js' id='scripts-js'>
 </script>
     <div id="oscuridad"></div>
+    <div class='snow'></div>
 </body>
 </html>
