@@ -1,0 +1,36 @@
+.grid-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      border: none;
+      padding: 2px;
+      margin: 2px;
+     }
+	.grid-container > div{
+      border: 1px none;
+      padding: 2px;
+      margin: 2px;
+     }
+	.imgOfPotPlayer{
+		width: 70px;
+    	height: 70px;
+    	background-image: url(https://movieslk.herokuapp.com/iruonline/images/1.png);
+    	background-size: contain;
+    	background-repeat: no-repeat;
+    	background-position: center;
+    }
+  	.imgOfVlcPlayer{
+		width: 70px;
+    	height: 70px;
+    	background-image: url(https://movieslk.herokuapp.com/iruonline/images/2.png);
+    	background-size: contain;
+    	background-repeat: no-repeat;
+    	background-position: center;
+    }
+  	.imgOfMxPlayer{
+		width: 70px;
+    	height: 70px;
+    	background-image: url(https://movieslk.herokuapp.com/iruonline/images/3.png);
+    	background-size: contain;
+    	background-repeat: no-repeat;
+    	background-position: center;
+    }
