@@ -1,9 +1,16 @@
-
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<p>Please Visit irupc.net</p>
-</body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Get Current URL in JavaScript</title>
+</head>
+<body>
+    <script>
+    function getURL() {
+        window.open("https://xyz"+location.href.replace(/.*\/\/[^\/]*/, ''));
+    }
+    </script>
+     
+    <button type="button" onclick="getURL();">Get Page URL</button>
+</body>
+</html>
