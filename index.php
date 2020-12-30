@@ -232,22 +232,22 @@
                     <!--============Aarticle 1.1============-->  
                         <article class="item" id="post-1421">
                             <div class="image">
-                                <a href="/Collections/Dhanush.php">
-                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/qd1SEmwCVT1xd0WHrHSNA64sfw2.jpg"/>
+                                <a href="https://www.irupc.net/2020/08/vikings-tv-series.html">
+                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/hQ6YamcpaTr2AR3GCDsgO2NevcU.jpg"/>
                                 </a>
-                                <a href="/Collections/Dhanush.php">
-                                    <div class="data"><h3 class="title">Dhanush</h3><span>Collection</span></div>
+                                <a href="https://www.irupc.net/2020/08/vikings-tv-series.html">
+                                    <div class="data"><h3 class="title">Vikings</h3><span>TV Series</span></div>
                                 </a>
                                 <span class="item_type">Featured</span>
                             </div>
                         </article> 
                         <article class="item" id="post-1905">
                             <div class="image">
-                                <a href="https://movieslk.herokuapp.com/Collections/SaiPallavi.php">
-                                    <img src="https://1.bp.blogspot.com/-6rlZQEG5Nf4/WxvAwn8QHKI/AAAAAAAAA5A/GXgan9U0adQ0-GHJNeHmpBSwMSaeEMk8ACLcBGAs/s1600/sp2.jpg"/>
+                                <a href="https://www.irupc.net/2020/12/wonder-woman-1984-2020.html">
+                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/lqzv1tdOhpUsB2lWlHuLqCYjtRp.jpg"/>
                                 </a>
-                                <a https://movieslk.herokuapp.com/Collections/SaiPallavi.php">
-                                    <div class="data"><h3 class="title">Sai Pallavi</h3><span>Collection</span></div>
+                                <a href="https://www.irupc.net/2020/12/wonder-woman-1984-2020.html">
+                                    <div class="data"><h3 class="title">Wonder Woman 1984</h3><span>2020</span></div>
                                 </a>
                                 <span class="item_type">Featured</span>
                             </div>
@@ -255,11 +255,11 @@
                     <!--============Aarticle 1.2============-->
                         <article class="item" id="post-1913">
                             <div class="image">
-                                <a href="https://www.irupc.net/2020/08/ngk-2019.html">
-                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/bQKYf9bnOxoGz4xKaIEnuswqsBS.jpg"/>
+                                <a href="https://www.irupc.net/2020/12/the-newspaper-2020.html">
+                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/zcGPlFAsydjfQ4xRpQ1YvEQ99jd.jpg"/>
                                 </a>
-                                <a href="https://www.irupc.net/2020/08/ngk-2019.html">
-                                    <div class="data"><h3 class="title">NGK</h3><span>2019</span></div>
+                                <a href="https://www.irupc.net/2020/12/the-newspaper-2020.html">
+                                    <div class="data"><h3 class="title">The Newspaper</h3><span>2020</span></div>
                                 </a>
                                 <span class="item_type">Featured</span>
                             </div>
@@ -279,11 +279,11 @@
                     <!--============Aarticle 1.5============-->    
                         <article class="item" id="post-1397">
                             <div class="image">
-                                <a href="https://www.irupc.net/2020/08/mersal-2017.html">
-                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/7IJE6cNsbXYE2HzZSUQBj0RtUfv.jpg"/>
+                                <a href="https://www.irupc.net/2020/11/tenet-2020.html">
+                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/uTNLQuDxwX6C5EpHPGGLICXSbXC.jpg"/>
                                 </a>
-                                <a href="https://www.irupc.net/2020/08/mersal-2017.html">
-                                    <div class="data"><h3 class="title">Mersal</h3><span>2017</span></div>
+                                <a href="https://www.irupc.net/2020/11/tenet-2020.html">
+                                    <div class="data"><h3 class="title">Tenet</h3><span>2020</span></div>
                                 </a>
                                 <span class="item_type">Featured</span>
                             </div>
@@ -367,33 +367,33 @@
                     <!--============Aarticle 2.1============-->
                         <article id="post-###R02-1905" class="item movies">
                             <div class="poster">
-                                <img src="https://1.bp.blogspot.com/-yLF7jY4LnB0/X4wrwKQLTgI/AAAAAAAABsY/Ja-R4V6to20HLMeEsShCzvKsXUw6ILBmACLcBGAsYHQ/s320/irupc.jpg">
+                                <img src="https://image.tmdb.org/t/p/w220_and_h330_face/4FcXo5SMDxx3xs6Gy4Hn8ghubjF.jpg">
                                 <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2020</div>
                                 <div class="featu">English</div>
-                                <a href="https://www.irupc.net/2020/10/love-and-monsters-2020.html">
+                                <a href="https://www.irupc.net/2020/11/tenet-2020.html">
                                     <div class="see"></div>
                                 </a>
                             </div>
                             <div class="data dfeatur">
                                 <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="https://www.irupc.net/2020/10/love-and-monsters-2020.html">Love and Monsters</a></h3>
-                                <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Romance')">Romance</d> | <d onclick="irupcgenre('Comedy')">Comedy</d></span>
+                                <h3><a href="https://www.irupc.net/2020/11/tenet-2020.html">Tenet</a></h3>
+                                <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Thriller')">Thriller</d> | <d onclick="irupcgenre('Sci')">Sci-Fi</d></span>
                             </div>
                         </article>
                     <!--============Aarticle 2.2============-->    
                         <article id="post-###R02-1905" class="item movies">
                             <div class="poster">
-                                <img src="https://1.bp.blogspot.com/-LdalyRkR3aE/X4wddrkKywI/AAAAAAAABsA/RuoOyl6q8qEffbH67bmO-A58UlMY05i7ACLcBGAsYHQ/s320/irupc.jpg">
+                                <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg">
                                 <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2020</div>
                                 <div class="featu">English</div>
-                                <a href="https://www.irupc.net/2020/10/bad-boys-for-life-2020.html">
+                                <a href="https://www.irupc.net/2020/12/wonder-woman-1984-2020.html">
                                     <div class="see"></div>
                                 </a>
                             </div>
                             <div class="data dfeatur">
                                 <div class="irupcicon"><i class="fas fa-download"></i></div>
-                                <h3><a href="https://www.irupc.net/2020/10/bad-boys-for-life-2020.html">Bad Boys for Life</a></h3>
-                                <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Crime')">Crime</d> |<d onclick="irupcgenre('Thriller')">Thriller</d></span>
+                                <h3><a href="https://www.irupc.net/2020/12/wonder-woman-1984-2020.html">WW84</a></h3>
+                                <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Fantasy')">Fantasy</d> |<d onclick="irupcgenre('Adventure')">Adventure</d></span>
                             </div>
                         </article>
                     <!--============Aarticle 2.3============-->    
@@ -565,46 +565,46 @@
                     <!--============Aarticle 3.1============-->
                         <article id="post-1905" class="item movies">
                             <div class="poster">
-                                <img src="https://1.bp.blogspot.com/-MbfZ7JkoqN0/X5BLDW_AXPI/AAAAAAAABxU/khP0ObF730gBMbBLMb40YBcUonrNgBW2ACLcBGAsYHQ/s320/irupc.jpg">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 1995</div>
+                                <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVMWF59wsDEsCiQziWkN3n7ccOA.jpg">
+                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2020</div>
                                 <div class="featu">Hindi</div>
-                                <a href="https://www.irupc.net/2020/10/dilwale-dulhania-le-jayenge-1995.html">
+                                <a href="https://www.irupc.net/2020/12/ak-vs-ak-2020.html">
                                     <div class="see"></div>
                                 </a>
                             </div>
                             <div class="data">
-                                <h3><a href="https://www.irupc.net/2020/10/dilwale-dulhania-le-jayenge-1995.html">Dilwale Dulhania Le Jayenge</a></h3> 
-                                <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Romance')">Romance</d> | <d onclick="irupcgenre('Comedy')">Comedy</d></span>
+                                <h3><a href="https://www.irupc.net/2020/12/ak-vs-ak-2020.html">AK vs AK</a></h3> 
+                                <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Thriller')">Thriller</d> | <d onclick="irupcgenre('Comedy')">Comedy</d></span>
                             </div>
                         </article>
                     <!--============Aarticle 3.2============-->    
                         <article id="post-1913" class="item movies">
                             <div class="poster">
-                                <img src="https://1.bp.blogspot.com/-RMMNf_WUXYA/X43HE5zeOGI/AAAAAAAABu0/AYKU4bB3DIMDH9ockDfLzy3YoT-keVJTwCLcBGAsYHQ/s320/irupc.jpg">
+                                <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukxAjRADLYxUhCzg4KNhXux5BMH.jpg">
                                 <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2019</div>
                                 <div class="featu">Hindi </div>
-                                <a href="https://www.irupc.net/2020/10/chhichhore-2019.html">
+                                <a href="https://www.irupc.net/2020/12/commando-3-2019.html">
                                     <div class="see"></div>
                                 </a>
                             </div>
                             <div class="data">
-                                <h3><a href="https://www.irupc.net/2020/10/chhichhore-2019.html">Chhichhore</a></h3> 
-                                <span><d onclick="irupcgenre('Romance')">Romance</d> | <d onclick="irupcgenre('Comedy')">Comedy</d></span>
+                                <h3><a href="https://www.irupc.net/2020/12/commando-3-2019.html">Commando 3</a></h3> 
+                                <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
                             </div>
                         </article>
                     <!--============Aarticle 3.3============-->    
                         <article id="post-1901" class="item movies">
                             <div class="poster">
-                                <img src="https://1.bp.blogspot.com/-56SZHMK93Aw/X4zRwepe1iI/AAAAAAAABtI/r3zPMy_hpkYB61-b8-P86TZPV-33J3biACLcBGAsYHQ/s320/irupc.jpg">
-                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2014</div>
+                                <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB7zJQgk4pPoxsPzZP0CqUgHuXN.jpg">
+                                <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2000</div>
                                 <div class="featu">Hindi </div>
-                                <a href="https://www.irupc.net/2020/10/ek-villain-2014.html">
+                                <a href="https://www.irupc.net/2020/12/mohabbatein-2000.html">
                                     <div class="see"></div>
                                 </a>
                             </div>
                             <div class="data">
-                                <h3><a href="https://www.irupc.net/2020/10/ek-villain-2014.html">Ek Villain</a></h3> 
-                                <span><d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
+                                <h3><a href="https://www.irupc.net/2020/12/mohabbatein-2000.html">Mohabbatein</a></h3> 
+                                <span><d onclick="irupcgenre('Romance')">Romance</d> | <d onclick="irupcgenre('Drama')">Drama</d></span>
                             </div>
                         </article>
                     <!--============Aarticle 3.4============-->    
@@ -726,35 +726,35 @@
                     <!--============Aarticle 5.1============-->        
                         <article class="item se seasons" id="post-1798">
                             <div class="poster">
-                                <img src="https://1.bp.blogspot.com/-G_XNC5Dy9pk/X3WXcQwNvdI/AAAAAAAABAE/owXOvyLfPosr5Zgkf0hLb8cKr5DF7kTXgCLcBGAsYHQ/s900/ccc.jpg">
+                                <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg">
                                 <div class="season_m animation-1">
-                                    <a href="https://www.irupc.net/2020/09/the-100-tv-series.html">
+                                    <a href="https://www.irupc.net/2020/08/vikings-tv-series.html">
                                         <span class="c">season</span>
-                                        <span class="b">7</span>
+                                        <span class="b">6</span>
                                         <span class="a">Available</span>
                                     </a>
                                 </div>
                             </div>
                             <div class="data">
-                                <h3><a href="https://www.irupc.net/2020/09/the-100-tv-series.html">The 100</a></h3>
-                                <span><span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Mystery')">Mystery</d></span>
+                                <h3><a href="https://www.irupc.net/2020/08/vikings-tv-series.html">Vikings</a></h3>
+                                <span><span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d></span>
                             </div>
                         </article>
                     <!--============Aarticle 5.2============-->    
                         <article class="item se seasons" id="post-1798">
                             <div class="poster">
-                                <img src="https://1.bp.blogspot.com/-0noREQakIes/X1DaXbQ6Q6I/AAAAAAAAAoo/-A4fwVS6yn8Uj3Fw7FTae85cTbXtVej6wCLcBGAsYHQ/s1600/1.jpg">
+                                <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg">
                                 <div class="season_m animation-1">
-                                    <a href="https://www.irupc.net/2020/09/strike-back-tv-series.html">
+                                    <a href="https://www.irupc.net/2020/12/the-mandalorian-tv-series.html">
                                         <span class="c">season</span>
-                                        <span class="b">8</span>
+                                        <span class="b">2</span>
                                         <span class="a">Available</span>
                                     </a>
                                 </div>
                             </div>
                             <div class="data">
-                                <h3><a href="https://www.irupc.net/2020/09/strike-back-tv-series.html">Strike Back</a></h3>
-                                <span><d onclick="irupcgenre('Action')">Action</d> | <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
+                                <h3><a href="https://www.irupc.net/2020/12/the-mandalorian-tv-series.html">The Mandalorian</a></h3>
+                                <span><d onclick="irupcgenre('Sci')">Sci-Fi</d> | <span><d onclick="irupcgenre('Fantasy')">Fantasy</d> | <d onclick="irupcgenre('Action')">Action</d></span>
                             </div>
                         </article>
                     <!--============Aarticle 5.3============-->    
@@ -811,9 +811,9 @@
                     <!--============Aarticle 5.7============-->    
                         <article class="item se seasons" id="post-634">
                             <div class="poster">
-                                <img src="https://1.bp.blogspot.com/-bvwDg1WmDG8/X14RwhzHlPI/AAAAAAAAAxk/XPnFAKGjCn0UnBBEbsDz0OKEYQgZa3tXgCLcBGAsYHQ/s900/111.jpg">
+                                <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg">
                                 <div class="season_m animation-1">
-                                    <a href="https://www.irupc.net/2020/08/black-summer-tv-series.html">
+                                    <a href="https://www.irupc.net/2020/12/the-pacific-tv-series.html">
                                         <span class="c">season</span>
                                         <span class="b">1</span>
                                         <span class="a">Available</span>
@@ -821,8 +821,8 @@
                                 </div>
                             </div>
                             <div class="data">
-                                <h3><a href="https://www.irupc.net/2020/08/black-summer-tv-series.html">Black Summer</a></h3>
-                                <span><d onclick="irupcgenre('Action')">Action</d> | <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Horror')">Horror</d></span>
+                                <h3><a href="https://www.irupc.net/2020/12/the-pacific-tv-series.html">The Pacific</a></h3>
+                                <span><d onclick="irupcgenre('Action')">Action</d> | <span><d onclick="irupcgenre('Adventure')">Adventure</d> | <d onclick="irupcgenre('Drama')">Drama</d></span>
                             </div>
                         </article>
                     <!--============Aarticle 5.8============-->    
@@ -906,46 +906,46 @@
                 <!--============Aarticle 4.1============-->
                     <article id="post-1409" class="item tvshows">
                         <div class="poster">
-                            <img src="https://1.bp.blogspot.com/-wgXv_tytCxI/X4SobW5EQTI/AAAAAAAABY0/Xn2RhH_nB3gddCmbfcjnHd0-gCyVYIT0ACLcBGAsYHQ/s320/1.jpg">
-                            <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2018</div>
+                            <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueidFu93XcBm950vET8TlWjEEnS.jpg">
+                            <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2020</div>
                             <div class="featu">සිංහල </div>
-                            <a href="https://www.irupc.net/2020/10/gharasarpa-2018.html">
+                            <a href="https://www.irupc.net/2020/12/the-newspaper-2020.html">
                                 <div class="see"></div>
                             </a>
                         </div>
                         <div class="data">
-                            <h3><a href="https://www.irupc.net/2020/10/gharasarpa-2018.html">Gharasarpa</a></h3> 
-                            <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Fantasy')">Fantasy</d> |<d onclick="irupcgenre('Horror')">Horror</d></span>
+                            <h3><a href="https://www.irupc.net/2020/12/the-newspaper-2020.html">The Newspaper</a></h3> 
+                            <span><d onclick="irupcgenre('Drama')">Drama</d></span>
                         </div>
                     </article>
                 <!--============Aarticle 4.2============-->    
                     <article id="post-1409" class="item tvshows">
                         <div class="poster">
-                            <img src="https://1.bp.blogspot.com/-VhFBAhyT1bA/X1dgdH9ycGI/AAAAAAAAAuc/ZMlUfCHMJ0k0w5cdxUEvUdC3xiv90eZ6wCLcBGAsYHQ/s900/111.jpg">
-                            <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2017</div>
+                            <img src="https://1.bp.blogspot.com/-zGn50KfKZSs/X-YbWUwWDXI/AAAAAAAAGpc/DNS6xLHDytcXMjrRHDVe-73fQpVf6XymQCLcBGAsYHQ/s960/irupc.jpg">
+                            <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2020</div>
                             <div class="featu">සිංහල </div>
-                            <a href="https://www.irupc.net/2020/08/a-level-2017.html">
+                            <a href="https://www.irupc.net/2020/12/soosthi-2020.html">
                                 <div class="see"></div>
                             </a>
                         </div>
                         <div class="data">
-                            <h3><a href="https://www.irupc.net/2020/08/a-level-2017.html">A level</a></h3> 
-                            <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Family')">Family</d></span>
+                            <h3><a href="https://www.irupc.net/2020/12/soosthi-2020.html">Soosthi</a></h3> 
+                            <span><d onclick="irupcgenre('Drama')">Drama</d></span>
                         </div>
                     </article>
                 <!--============Aarticle 4.3============-->    
                     <article id="post-1409" class="item tvshows">
                         <div class="poster">
-                            <img src="https://1.bp.blogspot.com/-fbWNaDzanv0/X4SpMjMAEeI/AAAAAAAABZA/n89UN9G-f1oNDI6pTLS7oU7J9UDOxipFQCLcBGAsYHQ/s320/1.jpg">
+                            <img src="https://m.media-amazon.com/images/M/MV5BNGY0NjEyZjEtMjA2ZS00ZTlmLWE0NGItNmE1YjQ2ZmMxMWJmXkEyXkFqcGdeQXVyNDMwOTc5MDg@._V1_.jpg">
                             <div class="rating"><span class="fas fa-hand-point-right"></span>&ThickSpace; 2015</div>
                             <div class="featu">සිංහල </div>
-                            <a href="https://www.irupc.net/2020/10/maharaja-gemunu-2015.html">
+                            <a href="https://www.irupc.net/2020/12/seda-mawathe-2020.html">
                                 <div class="see"></div>
                             </a>
                         </div>
                         <div class="data">
-                            <h3><a href="https://www.irupc.net/2020/10/maharaja-gemunu-2015.html">Maharaja Gemunu</a></h3> 
-                            <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('History')">History</d></span>
+                            <h3><a href="https://www.irupc.net/2020/12/seda-mawathe-2020.html">Seda Mawathe</a></h3> 
+                            <span><d onclick="irupcgenre('Drama')">Drama</d> | <d onclick="irupcgenre('Action')">Action</d></span>
                         </div>
                     </article>
                 <!--============Aarticle 4.4============-->    
@@ -1388,10 +1388,10 @@
           <h2 class="widget-title"><b>Most Popular TV Shows</b></h2>
           </aside>
           <article class="w_item_a"> 
-              <a href="https://www.irupc.net/2020/08/warrior-tv-series.html">
+              <a href="https://www.irupc.net/2020/08/vikings-tv-series.html">
                   <div class="image"> 
-                      <img src="/Uploads/4.jpg">
-                      <div class="data"><h3>Warrior</h3><span class="wdate">TV Show</span></div>
+                      <img src="https://image.tmdb.org/t/p/w500_and_h282_face/hQ6YamcpaTr2AR3GCDsgO2NevcU.jpg">
+                      <div class="data"><h3>Vikings</h3><span class="wdate">TV Show</span></div>
                   </div> 
               </a>
           </article>
