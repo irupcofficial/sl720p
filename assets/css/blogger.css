@@ -138,7 +138,7 @@ button:hover{background: #128C7E;box-shadow: 0 0 10px #128C7E, 0 0 40px #128C7E,
 .seasonWraerFather{ display: none;}
 .seasonWrapper > div{ width: 40%; height: auto; padding: 4px; margin: 4px; background-color: #34B7F1; font-family: 'Architects Daughter', cursive; font-size: 20px; font-weight: bolder; border: 1px solid;}
 
-/*Snow Falling*/
+/*Snow Falling
 .editor-stage .snow {
   height:50px;
   background: #fff;
@@ -178,4 +178,4 @@ button:hover{background: #128C7E;box-shadow: 0 0 10px #128C7E, 0 0 40px #128C7E,
   0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
   50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
   100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
-}
+}*/
