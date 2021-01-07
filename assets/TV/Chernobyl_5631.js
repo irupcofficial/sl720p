@@ -1,0 +1,13 @@
+lastRes = "720p"; lastSize = "504MB"; lastRip = "WebRip"; lastMsg1 = "x264 Codec File"; lastMsg2 = "---";
+s01Res = "720p"; s01Size = "~400MB"; s01Rip = "WebRip"; s01Msg1 = "x264 Codec File"; s01Msg2 = "---";
+s02Res = "720p"; s02Size = "~350MB"; s02Rip = "WebDL"; s02Msg1 = "Warning! This is x265 (HEVC) Codec"; s02Msg2 = "Some <b>Televisions</b> may not be able to play this video";
+
+//Season 1 URL
+s01e01x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/Chernobyl_IruPC.net_S01E01.720p.AMZN.WEBRip.x264_h.mkv"; s01e02x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/Chernobyl_IruPC.net_S01E02.720p.AMZN.WEBRip.x264_o.mkv"; s01e03x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/Chernobyl_IruPC.net_S01E03.720p.AMZN.WEBRip.x264_u.mkv"; s01e04x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/Chernobyl_IruPC.net_S01E04.720p.AMZN.WEBRip.x264_a.mkv"; s01e05x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/Chernobyl_IruPC.net_S01E05.720p.AMZN.WEBRip.x264.mkv";
+//
+s01e01y = "https://dl.irupc.xyz/323347026844764/Chernobyl.S01E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"; s01e02y = "https://dl.irupc.xyz/323364206713948/Chernobyl.S01E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"; s01e03y = "https://dl.irupc.xyz/323381386583132/Chernobyl.S01E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"; s01e04y = "https://dl.irupc.xyz/323398566452316/Chernobyl.S01E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"; s01e05y = "https://dl.irupc.xyz/323415746321500/Chernobyl.S01E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv";
+
+//Season 2 URL
+s02e01x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/www.iruPC.net__Chernobyl.S01E01.720p.WEB-DL.x265-d.mkv"; s02e02x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/www.irupc.net__Chernobyl.S01E02.720p.WEB-DL.x265-z.mkv"; s02e03x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/www.irupc.net__Chernobyl.S01E03.720p.WEB-DL.x265-zc.mkv"; s02e04x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/www.irupc.net__Chernobyl.S01E04.720p.WEB-DL.x265-e.mkv"; s02e05x = "https://download.irupc.xyz/0:/TV.Shows/Chernobyl/www.irupc.net__Chernobyl.S01E05.720p.WEB-DL.x265-u.mkv";
+//
+s02e01y = "https://dl.irupc.xyz/323175228152924/Chernobyl.S01E01.720p.WEB-DL.x265-@iMediaShare.mkv"; s02e02y = "https://dl.irupc.xyz/323192408022108/Chernobyl.S01E02.720p.WEB-DL.x265-@iMediaShare.mkv"; s02e03y = "https://dl.irupc.xyz/323209587891292/Chernobyl.S01E03.720p.WEB-DL.x265-@iMediaShare.mkv"; s02e04y = "https://dl.irupc.xyz/323226767760476/Chernobyl.S01E04.720p.WEB-DL.x265-@iMediaShare.mkv"; s02e05y = "https://dl.irupc.xyz/323243947629660/Chernobyl.S01E05.720p.WEB-DL.x265-@iMediaShare.mkv";
