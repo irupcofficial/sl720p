@@ -143,23 +143,6 @@
                             </article>
                             <article class="item se seasons">
                                 <div class="poster">
-                                    <img src="IMAGE">
-                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; YEAR</div>
-                                    <div class="featu">English</div>
-                                    <div class="season_m animation-1">
-                                        <a href="PGLINK">
-                                            <span class="b"><i class="fas fa-download"></i></span>
-                                            <span class="c">Download Now</span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="data">
-                                    <h3><a href="PGLINK">NAME</a></h3>
-                                    <span><d onclick="irupcgenre('Horror')">Horror</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
-                                </div>
-                            </article>
-                            <article class="item se seasons">
-                                <div class="poster">
                                     <img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rKl79KqLXg60KFyKsLe4wSSjQ08.jpg">
                                     <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2008</div>
                                     <div class="featu">English</div>
