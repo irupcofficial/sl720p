@@ -1,0 +1,7 @@
+lastRes = "720p"; lastSize = "230MB"; lastRip = "WebRip"; lastMsg1 = "Warning! This is x265 (HEVC) Codec"; lastMsg2 = "Some <b>Televisions</b> may not be able to play this video";
+s01Res = "720p"; s01Size = "~216MB"; s01Rip = "WebRip"; s01Msg1 = "Warning! This is x265 (HEVC) Codec"; s01Msg2 = "Some <b>Televisions</b> may not be able to play this video";
+
+//Season 1 URL
+s01e01x = "https://download.irupc.xyz/0:/TV.Shows/Lupin/S01/www.irupc.net__Lupin.S01E01.720p.10bit.WEBRip.2CH.x265_l.mkv"; s01e02x = "https://download.irupc.xyz/0:/TV.Shows/Lupin/S01/www.irupc.net__Lupin.S01E02.720p.10bit.WEBRip.2CH.x265_p.mkv"; s01e03x = "https://download.irupc.xyz/0:/TV.Shows/Lupin/S01/www.irupc.net__Lupin.S01E03.720p.10bit.WEBRip.2CH.x265_w.mkv"; s01e04x = "https://download.irupc.xyz/0:/TV.Shows/Lupin/S01/www.irupc.net__Lupin.S01E04.720p.10bit.WEBRip.2CH.x265_pd.mkv"; s01e05x = "https://download.irupc.xyz/0:/TV.Shows/Lupin/S01/www.irupc.net__Lupin.S01E05.720p.10bit.WEBRip.2CH.x265_irupc.mkv";
+//
+s01e01y = "https://dl.irupc.xyz/357964463250524/@WEB_SERIES_SL.Lupin.S01E01.720p.10bit.WEBRip.2CH.x265.mkv"; s01e02y = "https://dl.irupc.xyz/357981643119708/@WEB_SERIES_SL.Lupin.S01E02.720p.10bit.WEBRip.2CH.x265.mkv"; s01e03y = "https://dl.irupc.xyz/357998822988892/@WEB_SERIES_SL.Lupin.S01E03.720p.10bit.WEBRip.2CH.x265.mkv"; s01e04y = "https://dl.irupc.xyz/358016002858076/@WEB_SERIES_SL.Lupin.S01E04.720p.10bit.WEBRip.2CH.x265.mkv"; s01e05y = "https://dl.irupc.xyz/358033182727260/@WEB_SERIES_SL.Lupin.S01E05.720p.10bit.WEBRip.2CH.x265.mkv";
