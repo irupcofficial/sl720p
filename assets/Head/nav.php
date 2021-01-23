@@ -1,7 +1,7 @@
 <div class="sidebar right scrolling">
   <div class="fixed-sidebar-blank">
       <aside id="search-2" class="widget widget_search">
-          <form class="search-form" action="https://www.irupc.net/search" method="GET"> 
+          <form class="search-form" action="https://irupcmovie.blogspot.com/search" method="GET"> 
               <input class="search-input" type="text" name="q" placeholder="Search..." value="" spellcheck="false"> 
               <button type="submit" id=""><span class="icon-search2"></span></button>
           </form>
