@@ -52,7 +52,7 @@
                 
         <div class="headitems register_active">
             <div id="advc-menu" class="search">
-            <form action="https://www.irupc.net/search" method="GET"> 
+            <form action="https://irupcmovie.blogspot.com/search" method="GET"> 
                 <input class="search-input" type="text" name="q" placeholder="Search..." value="" spellcheck="false"> 
                 <button type="submit" id=""><span class="icon-search2"></span><i class="fab fa-searchengin"></i></button>
             </form>
