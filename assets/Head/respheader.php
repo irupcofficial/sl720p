@@ -4,7 +4,7 @@
     <div class="logo"> <a href="https://www.irupc.net/"><h1 class='text'>IruPC.net</h1></a> </div>
 </header>
 <div class="search_responsive">
-    <form method="get" id="form-search-resp" class="form-resp-ab" action="https://www.irupc.net/search">
+    <form method="get" id="form-search-resp" class="form-resp-ab" action="https://irupcmovie.blogspot.com/search">
         <input type="text" placeholder="Search..." name="q" id="ms" value="" autocomplete="off">
         <button type="submit" class="search-button">
             <span class="fas fa-search"></span>
