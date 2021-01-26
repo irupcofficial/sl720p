@@ -119,7 +119,7 @@
                             
                     <div class="headitems register_active">
                         <div id="advc-menu" class="search">
-                        <form action="https://irupcmovie.blogspot.com/search" method="GET"> 
+                        <form action="https://irupc.net/search" method="GET"> 
                             <input class="search-input" type="text" name="q" placeholder="Search..." value="" spellcheck="false"> 
                             <button type="submit" id=""><span class="icon-search2"></span><i class="fab fa-searchengin"></i></button>
                         </form>
@@ -138,7 +138,7 @@
                 <div class="logo"> <a href="https://www.irupc.net/"><h1 class='text'>IruPC.net</h1></a> </div>
             </header>
             <div class="search_responsive">
-                <form method="get" id="form-search-resp" class="form-resp-ab" action="https://irupcmovie.blogspot.com/search">
+                <form method="get" id="form-search-resp" class="form-resp-ab" action="https://irupc.net/search">
                     <input type="text" placeholder="Search..." name="q" id="ms" value="" autocomplete="off">
                     <button type="submit" class="search-button">
                         <span class="fas fa-search"></span>
@@ -1246,7 +1246,7 @@
                 <div class="sidebar right scrolling">
                     <div class="fixed-sidebar-blank">
                         <aside id="search-2" class="widget widget_search">
-                            <form class="search-form" action="https://irupcmovie.blogspot.com/search" method="GET"> 
+                            <form class="search-form" action="https://irupc.net/search" method="GET"> 
                                 <input class="search-input" type="text" name="q" placeholder="Search..." value="" spellcheck="false"> 
                                 <button type="submit" id=""><span class="icon-search2"></span></button>
                             </form>
