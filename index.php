@@ -232,6 +232,17 @@
                     <!--============Aarticle 1.1============-->  
                         <article class="item" id="post-1421">
                             <div class="image">
+                                <a href=https://www.irupc.net/2021/01/master-2021.html">
+                                    <img src="https://www.themoviedb.org/t/p/original/x1I63Mm5KU2DXjL4HdBy6JaGTms.jpg"/>
+                                </a>
+                                <a href="https://www.irupc.net/2021/01/master-2021.html">
+                                    <div class="data"><h3 class="title">Master</h3><span>2021</span></div>
+                                </a>
+                                <span class="item_type">Featured</span>
+                            </div>
+                        </article>   
+                        <article class="item" id="post-1421">
+                            <div class="image">
                                 <a href="https://www.irupc.net/2020/08/vikings-tv-series.html">
                                     <img src="https://image.tmdb.org/t/p/w500_and_h282_face/hQ6YamcpaTr2AR3GCDsgO2NevcU.jpg"/>
                                 </a>
@@ -320,18 +331,6 @@
                                 </a>
                                 <a href="https://www.irupc.net/2020/10/american-pie-presents-girls-rules-2020.html">
                                     <div class="data"><h3 class="title">American Pie Girls' Rules</h3><span>2020</span></div>
-                                </a>
-                                <span class="item_type">Featured</span>
-                            </div>
-                        </article> 
-                    <!--============Aarticle 1.9============-->    
-                        <article class="item" id="post-1409">
-                            <div class="image">
-                                <a href="https://www.irupc.net/2020/08/avengers-endgame-2020.html">
-                                    <img src="https://image.tmdb.org/t/p/w500_and_h282_face/wMFad1v8SwyVvrKXmsIkLhSxCEC.jpg"/>
-                                </a>
-                                <a href="https://www.irupc.net/2020/08/avengers-endgame-2020.html">
-                                    <div class="data"><h3 class="title">Avengers: Endgame</h3><span>2020</span></div>
                                 </a>
                                 <span class="item_type">Featured</span>
                             </div>
@@ -1292,10 +1291,10 @@
           <h2 class="widget-title"><b>Most Popular Movies</b></h2><br>
           </aside>
       <article class="w_item_a"> 
-          <a href="https://www.irupc.net/2020/11/u-turn-2019.html">
+          <a href="https://www.irupc.net/2021/01/master-2021.html">
               <div class="image"> 
-                  <img src="/Uploads/1.jpg">
-                  <div class="data"><h3>U-Turn</h3><span class="wdate">2019</span></div>
+                  <img src="https://www.themoviedb.org/t/p/original/x1I63Mm5KU2DXjL4HdBy6JaGTms.jpg">
+                  <div class="data"><h3>Master</h3><span class="wdate">2021</span></div>
               </div> 
           </a>
       </article>
