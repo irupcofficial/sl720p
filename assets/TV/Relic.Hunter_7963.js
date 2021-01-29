@@ -1,7 +1,7 @@
-lastRes = "---"; lastSize = "350MB"; lastRip = "---"; lastMsg1 = "Xvid Codec File"; lastMsg2 = "---";
-s01Res = "---"; s01Size = "~350MB"; s01Rip = "---"; s01Msg1 = "Xvid Codec File"; s01Msg2 = "---";
-s02Res = "---"; s02Size = "~350MB"; s02Rip = "---"; s02Msg1 = "Xvid Codec File"; s02Msg2 = "---";
-s03Res = "---"; s03Size = "~350MB"; s03Rip = "---"; s03Msg1 = "Xvid Codec File"; s03Msg2 = "---";
+lastRes = "---"; lastSize = "350MB"; lastRip = ".avi"; lastMsg1 = "Xvid Codec File"; lastMsg2 = "---";
+s01Res = "---"; s01Size = "~350MB"; s01Rip = ".avi"; s01Msg1 = "Xvid Codec File"; s01Msg2 = "---";
+s02Res = "---"; s02Size = "~350MB"; s02Rip = ".avi"; s02Msg1 = "Xvid Codec File"; s02Msg2 = "---";
+s03Res = "---"; s03Size = "~350MB"; s03Rip = ".avi"; s03Msg1 = "Xvid Codec File"; s03Msg2 = "---";
 
 //Season 1 URL
 s01e01x = "https://dl.irupc.xyz/371347581344860/Relic%20Hunter%20-%201x01%20-%20Buddha's%20Bowl.avi"; s01e02x = "https://dl.irupc.xyz/371364761214044/Relic%20Hunter%20-%201x02%20-%20Smoking%20Gun.avi"; s01e03x = "https://dl.irupc.xyz/371381941083228/Relic%20Hunter%20-%201x03%20-%20The%20Headless%20Nun.avi"; s01e04x = "https://dl.irupc.xyz/371399120952412/Relic%20Hunter%20-%201x04%20-%20Flag%20Day.avi"; s01e05x = "https://dl.irupc.xyz/371416300821596/Relic%20Hunter%20-%201x05%20-%20Thank%20You%20Very%20Much.avi"; s01e06x = "https://dl.irupc.xyz/371485020298332/Relic%20Hunter%20-%201x06%20-%20Diamond%20in%20the%20Rough.avi"; s01e07x = "https://dl.irupc.xyz/371433480690780/Relic%20Hunter%20-%201x07%20-%20Transformation.avi"; s01e08x = "https://dl.irupc.xyz/371450660559964/Relic%20Hunter%20-%201x08%20-%20Etched%20In%20Stone.avi"; s01e09x = "https://dl.irupc.xyz/371502200167516/Relic%20Hunter%20-%201x09%20-%20The%20Book%20of%20Love.avi"; s01e10x = "https://dl.irupc.xyz/371467840429148/Relic%20Hunter%20-%201x10%20-%20The%20Myth%20of%20the%20Maze.avi";
