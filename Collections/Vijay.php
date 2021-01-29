@@ -92,6 +92,23 @@
                         <div id="archive-content" class="animation-2 items">
                         <article class="item se seasons">
                                 <div class="poster">
+                                    <img src="https://www.themoviedb.org/t/p/original/sxhq8VXCmFuFIHC1LKW1b8ZCXaf.jpg">
+                                    <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 2021</div>
+                                    <div class="featu">Tamil</div>
+                                    <div class="season_m animation-1">
+                                        <a href="https://www.irupc.net/2021/01/master-2021.html">
+                                            <span class="b"><i class="fas fa-download"></i></span>
+                                            <span class="c">Download Now</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="data">
+                                    <h3><a href="https://www.irupc.net/2021/01/master-2021.html">Master</a></h3>
+                                    <span><d onclick="irupcgenre('Crime')">Crime</d> | <d onclick="irupcgenre('Action')">Action</d> | <d onclick="irupcgenre('Thriller')">Thriller</d></span>
+                                </div>
+                            </article>
+                        <article class="item se seasons">
+                                <div class="poster">
                                     <img src="https://1.bp.blogspot.com/-IUd8TWD8M4c/X2XCyHNo9XI/AAAAAAAAA4o/QNH6dBSs4JM22b6nqyf-rYIP1CmxrAcSwCLcBGAsYHQ/s583/111.jpg">
                                     <div class="rating"><span class="fas fa-hand-point-right"></span> &ThickSpace; 1997</div>
                                     <div class="featu">Tamil</div>
