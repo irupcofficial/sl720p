@@ -47,10 +47,10 @@
           <h2 class="widget-title"><b>Most Popular Movies</b></h2><br>
           </aside>
       <article class="w_item_a"> 
-          <a href="https://www.irupc.net/2020/11/u-turn-2019.html">
+          <a href="https://www.irupc.net/2021/01/master-2021.html">
               <div class="image"> 
-                  <img src="/Uploads/1.jpg">
-                  <div class="data"><h3>U-Turn</h3><span class="wdate">2019</span></div>
+                  <img src="https://www.themoviedb.org/t/p/original/x1I63Mm5KU2DXjL4HdBy6JaGTms.jpg">
+                  <div class="data"><h3>Master</h3><span class="wdate">2021</span></div>
               </div> 
           </a>
       </article>
