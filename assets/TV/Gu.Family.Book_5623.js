@@ -1,6 +1,6 @@
 lastRes = "720p"; lastSize = "426MB"; lastRip = "WebDL"; lastMsg1 = "x264 Codec File"; lastMsg2 = "---";
-s01Res = "720p"; s01Size = "~110MB"; s01Rip = "---"; s01Msg1 = "x264 Codec File"; s01Msg2 = "---";
-s02Res = "720p"; s02Size = "~270MB"; s02Rip = "---"; s02Msg1 = "x264 Codec File"; s02Msg2 = "---";
+s01Res = "360p"; s01Size = "~110MB"; s01Rip = "---"; s01Msg1 = "x264 Codec File"; s01Msg2 = "---";
+s02Res = "---"; s02Size = "~270MB"; s02Rip = "---"; s02Msg1 = "x264 Codec File"; s02Msg2 = "---";
 s03Res = "720p"; s03Size = "~450MB"; s03Rip = "WebDL"; s03Msg1 = "x264 Codec File"; s03Msg2 = "---";
 
 //Season 1 URL
