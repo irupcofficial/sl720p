@@ -15,11 +15,12 @@ s02e01y = "@@02y@@"; s02e02y = "@@02y@@"; s02e03y = "@@02y@@"; s02e04y = "@@02y@
 
 //Season 3 URL
 s03e01x = "https://cloud.irupc.xyz/0:/TV.Shows/American.Gods/S03/American.Gods.S03E01.720p.WEB.x265-h.mkv"; s03e02x = "https://cloud.irupc.xyz/0:/TV.Shows/American.Gods/S03/American.Gods.S03E02.720p.WEB.x265-op.mkv"; s03e03x = "https://cloud.irupc.xyz/0:/TV.Shows/American.Gods/S03/American.Gods.S03E03.720p.WEB.x265-pl.mkv"; 
-//s03e04x = "@@03x@@"; s03e05x = "@@03x@@"; s03e06x = "@@03x@@"; s03e07x = "@@03x@@"; s03e08x = "@@03x@@"; s03e09x = "@@03x@@"; s03e10x = "@@03x@@";
+s03e04x = "https://cloud.irupc.xyz/0:/TV.Shows/American.Gods/S03/www.irupc.net__American.Gods.S03E04.720p.WEBRip.2CH.x265.mkv"; 
+//s03e05x = "@@03x@@"; s03e06x = "@@03x@@"; s03e07x = "@@03x@@"; s03e08x = "@@03x@@"; s03e09x = "@@03x@@"; s03e10x = "@@03x@@";
 //s03e11x = "@@03x@@"; s03e12x = "@@03x@@"; s03e13x = "@@03x@@"; s03e14x = "@@03x@@"; s03e15x = "@@03x@@"; s03e16x = "@@03x@@"; s03e17x = "@@03x@@"; s03e18x = "@@03x@@"; s03e19x = "@@03x@@"; s03e20x = "@@03x@@";
 //s03e21x = "@@03x@@"; s03e22x = "@@03x@@"; s03e23x = "@@03x@@"; s03e24x = "@@03x@@"; s03e25x = "@@03x@@"; s03e26x = "@@03x@@"; s03e27x = "@@03x@@"; s03e28x = "@@03x@@"; s03e29x = "@@03x@@"; s03e30x = "@@03x@@";
 //@@03z@@  
-s03e01y = "@@03y@@"; s03e02y = "@@03y@@"; s03e03y = "@@03y@@"; 
-//s03e04y = "@@03y@@"; s03e05y = "@@03y@@"; s03e06y = "@@03y@@"; s03e07y = "@@03y@@"; s03e08y = "@@03y@@"; s03e09y = "@@03y@@"; s03e10y = "@@03y@@";
+s03e01y = "@@03y@@"; s03e02y = "@@03y@@"; s03e03y = "@@03y@@"; s03e04y = "@@03y@@"; 
+//s03e05y = "@@03y@@"; s03e06y = "@@03y@@"; s03e07y = "@@03y@@"; s03e08y = "@@03y@@"; s03e09y = "@@03y@@"; s03e10y = "@@03y@@";
 //s03e11y = "@@03y@@"; s03e12y = "@@03y@@"; s03e13y = "@@03y@@"; s03e14y = "@@03y@@"; s03e15y = "@@03y@@"; s03e16y = "@@03y@@"; s03e17y = "@@03y@@"; s03e18y = "@@03y@@"; s03e19y = "@@03y@@"; s03e20y = "@@03y@@";
 //s03e21y = "@@03y@@"; s03e22y = "@@03y@@"; s03e23y = "@@03y@@"; s03e24y = "@@03y@@"; s03e25y = "@@03y@@"; s03e26y = "@@03y@@"; s03e27y = "@@03y@@"; s03e28y = "@@03y@@"; s03e29y = "@@03y@@"; s03e30y = "@@03y@@";
