@@ -1,5 +1,5 @@
-lastRes = "540p"; lastSize = "436MB"; lastRip = "---"; lastMsg1 = "x264 Codec Video"; lastMsg2 = "---";
-s01Res = "540p"; s01Size = "~439MB"; s01Rip = "---"; s01Msg1 = "x264 Codec Video"; s01Msg2 = "---";
+lastRes = "540p"; lastSize = "436MB"; lastRip = "WebRip"; lastMsg1 = "x264 Codec Video"; lastMsg2 = "---";
+s01Res = "540p"; s01Size = "~439MB"; s01Rip = "WebRip"; s01Msg1 = "x264 Codec Video"; s01Msg2 = "---";
 
 //@@01z@@  
 s01e01x = "https://dl.irupc.xyz/388527450528860/El.Dragon.Return.Of.A.Warrior.S01E01.WEBRip.x264-ION10.mp4"; s01e02x = "https://dl.irupc.xyz/388561810267228/El.Dragon.Return.Of.A.Warrior.S01E02.WEBRip.x264-ION10.mp4"; s01e03x = "https://dl.irupc.xyz/388544630398044/El.Dragon.Return.Of.A.Warrior.S01E03.WEBRip.x264-ION10.mp4"; s01e04x = "https://dl.irupc.xyz/388578990136412/El.Dragon.Return.Of.A.Warrior.S01E04.WEBRip.x264-ION10.mp4"; s01e05x = "https://dl.irupc.xyz/388596170005596/El.Dragon.Return.Of.A.Warrior.S01E05.WEBRip.x264-ION10.mp4"; s01e06x = "https://dl.irupc.xyz/388613349874780/El.Dragon.Return.Of.A.Warrior.S01E06.WEBRip.x264-ION10.mp4"; s01e07x = "https://dl.irupc.xyz/388630529743964/El.Dragon.Return.Of.A.Warrior.S01E07.WEBRip.x264-ION10.mp4"; s01e08x = "https://dl.irupc.xyz/388647709613148/El.Dragon.Return.Of.A.Warrior.S01E08.WEBRip.x264-ION10.mp4"; s01e09x = "https://dl.irupc.xyz/388664889482332/El.Dragon.Return.Of.A.Warrior.S01E09.WEBRip.x264-ION10.mp4"; s01e10x = "https://dl.irupc.xyz/388682069351516/El.Dragon.Return.Of.A.Warrior.S01E10.WEBRip.x264-ION10.mp4";
