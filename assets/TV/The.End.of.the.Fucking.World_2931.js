@@ -1,0 +1,13 @@
+lastRes = "720p"; lastSize = "116MB"; lastRip = "WEB"; lastMsg1 = "Warning! This is x265 (HEVC) Codec"; lastMsg2 = "Some <b>Televisions</b> may not be able to play this video";
+s01Res = "720p"; s01Size = "~120MB"; s01Rip = "WEB"; s01Msg1 = "Warning! This is x265 (HEVC) Codec"; s01Msg2 = "Some <b>Televisions</b> may not be able to play this video";
+s02Res = "720p"; s02Size = "~120MB"; s02Rip = "WEB"; s02Msg1 = "Warning! This is x265 (HEVC) Codec"; s02Msg2 = "Some <b>Televisions</b> may not be able to play this video";
+
+//Season 1 URL
+s01e01x = "https://dl.irupc.xyz/407047349509212/The.End.of.the.Fucking.World.S01E01.720p.10bit.x265.mkv"; s01e02x = "https://dl.irupc.xyz/407064529378396/The.End.of.the.Fucking.World.S01E02.720p.10bit.x265.mkv"; s01e03x = "https://dl.irupc.xyz/407081709247580/The.End.of.the.Fucking.World.S01E03.720p.10bit.x265.mkv"; s01e04x = "https://dl.irupc.xyz/407098889116764/The.End.of.the.Fucking.World.S01E04.720p.10bit.x265.mkv"; s01e05x = "https://dl.irupc.xyz/407116068985948/The.End.of.the.Fucking.World.S01E05.720p.10bit.x265.mkv"; s01e06x = "https://dl.irupc.xyz/407133248855132/The.End.of.the.Fucking.World.S01E06.720p.10bit.x265.mkv"; s01e07x = "https://dl.irupc.xyz/407150428724316/The.End.of.the.Fucking.World.S01E07.720p.10bit.HEVC.mkv"; s01e08x = "https://dl.irupc.xyz/407167608593500/The.End.of.the.Fucking.World.S01E08.720p.10bit.x265.mkv";
+//@@01z@@  
+s01e01y = "@@01y@@"; s01e02y = "@@01y@@"; s01e03y = "@@01y@@"; s01e04y = "@@01y@@"; s01e05y = "@@01y@@"; s01e06y = "@@01y@@"; s01e07y = "@@01y@@"; s01e08y = "@@01y@@";
+
+//Season 2 URL
+s02e01x = "https://dl.irupc.xyz/407322227416156/The.End.of.the.Fucking.World.S02E01.720p.10bit.x265.mkv"; s02e02x = "https://dl.irupc.xyz/407339407285340/The.End.of.the.Fucking.World.S02E02.720p.10bit.x265.mkv"; s02e03x = "https://dl.irupc.xyz/407356587154524/The.End.of.the.Fucking.World.S02E03.720p.10bit.x265.mkv"; s02e04x = "https://dl.irupc.xyz/407373767023708/The.End.of.the.Fucking.World.S02E04.720p.10bit.x265.mkv"; s02e05x = "https://dl.irupc.xyz/407390946892892/The.End.of.the.Fucking.World.S02E05.720p.10bit.x265.mkv"; s02e06x = "https://dl.irupc.xyz/407408126762076/The.End.of.the.Fucking.World.S02E06.720p.10bit.x265.mkv"; s02e07x = "https://dl.irupc.xyz/407425306631260/The.End.of.the.Fucking.World.S02E07.720p.10bit.x265.mkv"; s02e08x = "https://dl.irupc.xyz/407442486500444/The.End.of.the.Fucking.World.S02E08.720p.10bit.x265.mkv";
+//@@02z@@  
+s02e01y = "@@02y@@"; s02e02y = "@@02y@@"; s02e03y = "@@02y@@"; s02e04y = "@@02y@@"; s02e05y = "@@02y@@"; s02e06y = "@@02y@@"; s02e07y = "@@02y@@"; s02e08y = "@@02y@@";
