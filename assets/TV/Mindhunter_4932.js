@@ -1,0 +1,13 @@
+lastRes = "480p"; lastSize = "243MB"; lastRip = "WebDL"; lastMsg1 = "x264 Codec Movie"; lastMsg2 = "---";
+s01Res = "480p"; s01Size = "~170MB"; s01Rip = "WebDL"; s01Msg1 = "x264 Codec Movie"; s01Msg2 = "---";
+s02Res = "480p"; s02Size = "~180MB"; s02Rip = "WebDL"; s02Msg1 = "x264 Codec Movie"; s02Msg2 = "---";
+
+//Season 1 URL
+s01e01x = "https://dl.irupc.xyz/406360154741852/Mindhunter.S01E01.480p.NF.WEB-DL.x264.200MB-Pahe.in.mkv"; s01e02x = "https://dl.irupc.xyz/406377334611036/Mindhunter.S01E02.480p.NFWEB-DL.x264.170MB-Pahe.in.mkv"; s01e03x = "https://dl.irupc.xyz/406394514480220/Mindhunter.S01E03.480p.NFWEB-DL.x264.150MB-Pahe.in.mkv"; s01e04x = "https://dl.irupc.xyz/406411694349404/Mindhunter.S01E04.480p.NFWEB-DL.x264.170MB-Pahe.in.mkv"; s01e05x = "https://dl.irupc.xyz/406428874218588/Mindhunter.S01E05.480p.NFWEB-DL.x264.150MB-Pahe.in.mkv"; s01e06x = "https://dl.irupc.xyz/406446054087772/Mindhunter.S01E06.480p.NFWEB-DL.x264.100MB-Pahe.in.mkv"; s01e07x = "https://dl.irupc.xyz/406463233956956/Mindhunter.S01E07.480p.NFWEB-DL.x264.170MB-Pahe.in.mkv"; s01e08x = "https://dl.irupc.xyz/406514773564508/Mindhunter.S01E08.480p.NFWEB-DL.x264.200MB-Pahe.in.mkv"; s01e09x = "https://dl.irupc.xyz/406497593695324/Mindhunter.S01E09.480p.NFWEB-DL.x264.150MB-Pahe.in.mkv"; s01e10x = "https://dl.irupc.xyz/406480413826140/Mindhunter.S01E10.480p.NFWEB-DL.x264.200MB-Pahe.in.mkv";
+//@@01z@@  
+s01e01y = "@@01y@@"; s01e02y = "@@01y@@"; s01e03y = "@@01y@@"; s01e04y = "@@01y@@"; s01e05y = "@@01y@@"; s01e06y = "@@01y@@"; s01e07y = "@@01y@@"; s01e08y = "@@01y@@"; s01e09y = "@@01y@@"; s01e10y = "@@01y@@";
+
+//Season 2 URL
+s02e01x = "https://dl.irupc.xyz/406738111863900/Mindhunter.S02E01.480p.NF.WEB-DL.x264-Pahe.in.mkv"; s02e02x = "https://dl.irupc.xyz/406755291733084/Mindhunter.S02E02.480p.NF.WEB-DL.x264-Pahe.in.mkv"; s02e03x = "https://dl.irupc.xyz/406772471602268/Mindhunter.S02E03.480p.NF.WEB-DL.x264-Pahe.in.mkv"; s02e04x = "https://dl.irupc.xyz/406789651471452/Mindhunter.S02E04.480p.NF.WEB-DL.x264-Pahe.in.mkv"; s02e05x = "https://dl.irupc.xyz/406806831340636/Mindhunter.S02E05.480p.NF.WEB-DL.x264-Pahe.in.mkv"; s02e06x = "https://dl.irupc.xyz/406824011209820/Mindhunter.S02E06.480p.NF.WEB-DL.x264-Pahe.in.mkv"; s02e07x = "https://dl.irupc.xyz/406841191079004/Mindhunter.S02E07.480p.NF.WEB-DL.x264-Pahe.in.mkv"; s02e08x = "https://dl.irupc.xyz/406858370948188/Mindhunter.S02E08.480p.NF.WEB-DL.x264-Pahe.in.mkv"; s02e09x = "https://dl.irupc.xyz/406875550817372/Mindhunter.S02E09.480p.NF.WEB-DL.x264-Pahe.in.mkv";
+//@@02z@@  
+s02e01y = "@@02y@@"; s02e02y = "@@02y@@"; s02e03y = "@@02y@@"; s02e04y = "@@02y@@"; s02e05y = "@@02y@@"; s02e06y = "@@02y@@"; s02e07y = "@@02y@@"; s02e08y = "@@02y@@"; s02e09y = "@@02y@@";
