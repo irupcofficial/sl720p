@@ -4,6 +4,7 @@ s02Res = "720p"; s02Size = "~50MB"; s02Rip = "BluRay"; s02Msg1 = "Warning! This 
 s03Res = "720p"; s03Size = "~50MB"; s03Rip = "BluRay"; s03Msg1 = "Warning! This is x265 (HEVC) Codec"; s03Msg2 = "Some <b>Televisions</b> may not be able to play this video";
 s04Res = "720p"; s04Size = "~60MB"; s04Rip = "BluRay"; s04Msg1 = "Warning! This is x265 (HEVC) Codec"; s04Msg2 = "Some <b>Televisions</b> may not be able to play this video";
 s05Res = "720p"; s05Size = "~60MB"; s05Rip = "BluRay"; s05Msg1 = "Warning! This is x265 (HEVC) Codec"; s05Msg2 = "Some <b>Televisions</b> may not be able to play this video";
+s06Res = "720p"; s06Size = "~50MB"; s06Rip = "BluRay"; s06Msg1 = "Warning! This is x265 (HEVC) Codec"; s06Msg2 = "Some <b>Televisions</b> may not be able to play this video";
 
 //Season 1 URL
 s01e01x = "https://dl.irupc.xyz/420670985772124/Batman_The_Animated_Series_S01E01_On_Leather_Wings_720p_10bit_BluRay.mkv"; s01e02x = "https://dl.irupc.xyz/420688165641308/Batman_The_Animated_Series_S01E02_Christmas_with_the_Joker_720p.mkv"; s01e03x = "https://dl.irupc.xyz/420705345510492/Batman_The_Animated_Series_S01E03_Nothing_to_Fear_720p_10bit_BluRay.mkv"; s01e04x = "https://dl.irupc.xyz/420722525379676/Batman_The_Animated_Series_S01E04_The_Last_Laugh_720p_10bit_BluRay.mkv"; s01e05x = "https://dl.irupc.xyz/420739705248860/Batman_The_Animated_Series_S01E05_Pretty_Poison_720p_10bit_BluRay.mkv"; s01e06x = "https://dl.irupc.xyz/420756885118044/Batman_The_Animated_Series_S01E06_The_Underdwellers_720p_10bit_BluRay.mkv"; s01e07x = "https://dl.irupc.xyz/420774064987228/Batman_The_Animated_Series_S01E07_P_O_V_720p_10bit_BluRay_2CH_x265.mkv"; s01e08x = "https://dl.irupc.xyz/420791244856412/Batman_The_Animated_Series_S01E08_Forgotten_720p_10bit_BluRay_2CH.mkv"; s01e09x = "https://dl.irupc.xyz/420808424725596/Batman_The_Animated_Series_S01E09_Be_a_Clown_720p_10bit_BluRay_2CH.mkv"; s01e10x = "https://dl.irupc.xyz/420825604594780/Batman_The_Animated_Series_S01E10_Two_Face_Part_One_720p_10bit_BluRay.mkv";
@@ -35,3 +36,8 @@ s05e11x = "https://dl.irupc.xyz/422217173998684/Batman_The_Animated_Series_S01E5
 //@@05y@@
 s05e01y = "@@05y@@"; s05e02y = "@@05y@@"; s05e03y = "@@05y@@"; s05e04y = "@@05y@@"; s05e05y = "@@05y@@"; s05e06y = "@@05y@@"; s05e07y = "@@05y@@"; s05e08y = "@@05y@@"; s05e09y = "@@05y@@"; s05e10y = "@@05y@@";
 s05e11y = "@@05y@@"; s05e12y = "@@05y@@"; s05e13y = "@@05y@@"; s05e14y = "@@05y@@"; s05e15y = "@@05y@@"; s05e16y = "@@05y@@"; s05e17y = "@@05y@@"; s05e18y = "@@05y@@"; s05e19y = "@@05y@@"; s05e20y = "@@05y@@";
+
+//Season 6 URL
+s06e01x = "https://dl.irupc.xyz/423454124579932/Batman_The_Animated_Series_S04E01_Harleys_Holiday_720p_10bit_BluRay.mkv"; s06e02x = "https://dl.irupc.xyz/423471304449116/Batman_The_Animated_Series_S04E02_Lock_Up_720p_10bit_BluRay_2CH.mkv"; s06e03x = "https://dl.irupc.xyz/423488484318300/Batman_The_Animated_Series_S04E03_Make_Em_Laugh_720p_10bit_BluRay.mkv"; s06e04x = "https://dl.irupc.xyz/423505664187484/Batman_The_Animated_Series_S04E04_Deep_Freeze_720p_10bit_BluRay.mkv"; s06e05x = "https://dl.irupc.xyz/423522844056668/Batman_The_Animated_Series_S04E05_Batgirl_Returns_720p_10bit_BluRay.mkv";
+//@@06x@@
+s06e01y = "@@06y@@"; s06e02y = "@@06y@@"; s06e03y = "@@06y@@"; s06e04y = "@@06y@@"; s06e05y = "@@06y@@";
