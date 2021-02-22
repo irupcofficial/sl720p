@@ -1,6 +1,6 @@
 lastRes = "---"; lastSize = "266MB"; lastRip = "---"; lastMsg1 = "x264 Codec Movie"; lastMsg2 = "---";
-s01Res = "---"; s01Size = "~1.7GB"; s01Rip = "---"; s01Msg1 = "x264 Codec Movie"; s01Msg2 = "---";
-s02Res = "---"; s02Size = "~837MB"; s02Rip = "---"; s02Msg1 = "x264 Codec Movie"; s02Msg2 = "---";
+s01Res = "---"; s01Size = "~1.7GB"; s01Rip = "---"; s01Msg1 = "x264 Codec Movie"; s01Msg2 = "<b>Watch Online</b> Link is <blink>Not</blink> Working!!!";
+s02Res = "---"; s02Size = "~837MB"; s02Rip = "---"; s02Msg1 = "x264 Codec Movie"; s02Msg2 = "<b>Watch Online</b> Link is <blink>Not</blink> Working!!!";
 s03Res = "---"; s03Size = "~260MB"; s03Rip = "---"; s03Msg1 = "x264 Codec Movie"; s03Msg2 = "---";
 
 //Season 1 URL
